@@ -1,0 +1,189 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd \n",
+    "\n",
+    "df = pd.read_csv('fp2.csv')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "\n",
+    "def clean_up(column): \n",
+    "    \n",
+    "    new_df = df[column].values.reshape(-1,1)\n",
+    "    new_col = []\n",
+    "    \n",
+    "    for item in new_df:\n",
+    "        if type(item[0]) == str:\n",
+    "            \n",
+    "        \n",
+    "            col_data = item[0].split(',')\n",
+    "            column_lst = []\n",
+    "       \n",
+    "            for i in range(len(col_data)):\n",
+    "                col_data[i] = col_data[i].strip(\"'][ '\")\n",
+    "                column_lst.append(col_data[i])\n",
+    "                \n",
+    "        \n",
+    "            new_col.append(column_lst)\n",
+    "    \n",
+    "        else: \n",
+    "        \n",
+    "            new_col.append([])\n",
+    "        \n",
+    "        \n",
+    "    return new_col"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {
+    "scrolled": false
+   },
+   "outputs": [],
+   "source": [
+    "cleanable_columns = ['Title:', 'Genre:', 'Developer:', 'Publisher:', 'Release Date:', 'Franchise:']\n",
+    "\n",
+    "for item in cleanable_columns:\n",
+    "    clean_column = clean_up(item)\n",
+    "    \n",
+    "    df = df.drop(item, axis = 1)\n",
+    "    new_series = pd.Series(clean_column)\n",
+    "    df[item] = new_series\n",
+    "\n",
+    "df = df.drop('Unnamed: 0', axis = 1)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def count_unique(column):\n",
+    "    \n",
+    "    unique_items = []\n",
+    "    \n",
+    "    for item in df[column]:\n",
+    "        for i in range(len(item)):\n",
+    "            \n",
+    "            if item[i] not in unique_items:\n",
+    "                \n",
+    "                unique_items.append(item[i])\n",
+    "    \n",
+    "    \n",
+    "    return unique_items\n",
+    "            \n",
+    "            \n",
+    "        \n",
+    "    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def one_hot(column, unique_lst):\n",
+    "    \n",
+    "    series = df[column]\n",
+    "    \n",
+    "    \n",
+    "    for genre in unique_lst:\n",
+    "        \n",
+    "        genre_check = []\n",
+    "        \n",
+    "        for i in range(len(series)):\n",
+    "            \n",
+    "            genre_value = 0\n",
+    "            \n",
+    "            for j in range(len(series[i])):\n",
+    "                \n",
+    "                if genre == series[i][j]:\n",
+    "                    genre_value += 1\n",
+    "                else:\n",
+    "                    genre_value += 0\n",
+    "                \n",
+    "               \n",
+    "            if genre_value >= 1:\n",
+    "                genre_check.append(1)\n",
+    "            else:\n",
+    "                genre_check.append(0)\n",
+    "\n",
+    "          \n",
+    "        genre_series = pd.Series(genre_check)\n",
+    "        df[genre] = genre_series\n",
+    "    \n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "unique = count_unique('Genre:')\n",
+    "\n",
+    "one_hot('Genre:', unique)\n",
+    "df = df = df.drop('Genre:', axis = 1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df.to_csv(\"new_data\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}

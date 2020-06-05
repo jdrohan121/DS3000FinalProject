@@ -1,0 +1,946 @@
+,Discounted Price,Number of Ratings,Percentage of Positive Reviews,Price,Title:,Developer:,Publisher:,Release Date:,Franchise:,Action,Free to Play,Massively Multiplayer,RPG,Strategy,Adventure,Simulation,Indie,Racing,Sports,Early Access,Casual,Animation & Modeling,Design & Illustration,Utilities,Video Production,Web Publishing,Game Development,Audio Production,Education,Software Training
+0,,4427442.0,87%,Free to Play,['CounterStrikeGlobalOffensive'],"['Valve', 'Hidden Path Entertainment']",['Valve'],['Aug212012'],[],1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,,60316.0,81%,$19.99,['TheElderScrollsOnline'],['Zenimax Online Studios'],['Bethesda Softworks'],['Apr42014'],"['The Elder Scrolls', 'Skyrim']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,,76894.0,80%,$59.99,['SidMeiersCivilizationVI'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Oct202016'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,,237260.0,86%,Free To Play,['Destiny2'],['Bungie'],['Bungie'],['Oct12019'],['Destiny'],1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,,24355.0,74%,$9.99,['BlackDesertOnline'],['Pearl Abyss'],['Kakao Games Europe B.V.'],['May242017'],[],1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,,568541.0,88%,$19.99,['TomClancysRainbowSixSiege'],['Ubisoft Montreal'],['Ubisoft'],['Dec12015'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,,775641.0,79%,$29.99,['GrandTheftAutoV'],['Rockstar North'],['Rockstar Games'],['Apr142015'],['Grand Theft Auto'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,,32655.0,96%,$29.99,['DeepRockGalactic'],['Ghost Ship Games'],['Coffee Stain Publishing'],['May132020'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,,358046.0,91%,Free to Play,['Warframe'],['Digital Extremes'],['Digital Extremes'],['Mar252013'],[],1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,,65765.0,80%,Free to Play,['SMITE'],['Titan Forge Games'],['Hi-Rez Studios'],['Sep82015'],[],1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,$22.49                    ,4079.0,96%,$24.99,['MonsterTrain'],['Shiny Shoe'],['Good Shepherd Entertainment'],['May212020'],[],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,,20777.0,86%,$19.99,['FINALFANTASYXIVOnline'],['Square Enix'],['Square Enix'],['Feb182014'],['FINAL FANTASY'],0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,,228973.0,80%,$19.99,['DeadbyDaylight'],['Behaviour Interactive Inc.'],['Behaviour Interactive Inc.'],['Jun142016'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,,81867.0,91%,$39.99,['HaloTheMasterChiefCollection'],"['343 Industries', 'Splash Damage', 'Ruffian Games', 'Bungie', 'Saber Interactive']",['Xbox Game Studios'],['Dec32019'],['Halo'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,,44464.0,92%,$59.99,['TotalWarWARHAMMERII'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Sep282017'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,,306264.0,92%,$19.99,['RocketLeague'],['Psyonix LLC'],['Psyonix LLC'],['Jul72015'],[],1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+16,,76661.0,74%,$59.99,['RedDeadRedemption2'],['Rockstar Games'],['Rockstar Games'],['Dec52019'],['Red Dead Redemption'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,,340011.0,83%,$39.99,['Rust'],['Facepunch Studios'],['Facepunch Studios'],['Feb82018'],[],1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,,410216.0,97%,$9.99,['Terraria'],['Re-Logic'],['Re-Logic'],['May162011'],[],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,,93870.0,87%,$49.99,['MountBladeIIBannerlord'],['TaleWorlds Entertainment'],['TaleWorlds Entertainment'],['Mar302020'],[],1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+20,,148702.0,82%,$29.99,['MONSTERHUNTERWORLD'],"['CAPCOM Co.', 'Ltd.']","['CAPCOM Co.', 'Ltd.']",['Aug92018'],['Monster Hunter'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,,132827.0,93%,Free to Play,['PathofExile'],['Grinding Gear Games'],['Grinding Gear Games'],['Oct232013'],[],1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,,44461.0,88%,$19.99,['Raft'],['Redbeet Interactive'],['Axolot Games'],['May232018'],[],0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+23,,6041.0,79%,$39.99,['Fallout76'],['Bethesda Game Studios'],['Bethesda Softworks'],['Apr142020'],['Fallout'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,,671128.0,94%,Free to Play,['TeamFortress2'],['Valve'],['Valve'],['Oct102007'],[],1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,,263614.0,77%,$49.99,['ARKSurvivalEvolved'],"['Studio Wildcard', 'Instinct Games', 'Efecto Studios', 'Virtual Basement LLC']",['Studio Wildcard'],['Aug272017'],[],1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,,57343.0,84%,$39.99,['Stellaris'],['Paradox Development Studio'],['Paradox Interactive'],['May92016'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,,33679.0,73%,$59.99,['CallofDutyBlackOpsIII'],"['Treyarch', 'Aspyr (Mac)']","['Activision', 'Aspyr (Mac)']",['Nov52015'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,$11.99                    ,39405.0,89%,$29.99,['Frostpunk'],['11 bit studios'],['11 bit studios'],['Apr242018'],['11 bit studios'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,,55196.0,82%,$59.99,['DOOMEternal'],['id Software'],['Bethesda Softworks'],['Mar192020'],['DOOM'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,,37521.0,91%,$39.99,['TheElderScrollsVSkyrimSpecialEdition'],['Bethesda Game Studios'],['Bethesda Softworks'],['Oct272016'],"['The Elder Scrolls', 'Skyrim']",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,,1099.0,96%,$11.99,['GunfireReborn'],['Duoyi (Hong Kong) Interactive Entertainment Limited'],['Duoyi (Hong Kong) Interactive Entertainment Limited'],['May222020'],"['枪火', 'Gunfire']",1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,,90786.0,92%,$29.99,['CitiesSkylines'],['Colossal Order Ltd.'],['Paradox Interactive'],['Mar102015'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,$23.99                    ,26521.0,94%,$29.99,['OriandtheWilloftheWisps'],['Moon Studios GmbH'],['Xbox Game Studios'],['Mar102020'],['Ori'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,,30012.0,82%,$59.99,['Borderlands3'],['Gearbox Software'],['2K'],['Mar132020'],['Borderlands'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,$13.59                    ,122886.0,94%,$39.99,['DyingLight'],['Techland'],['Techland Publishing'],['Jan262015'],['Dying Light'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,,61713.0,98%,$34.99,['RimWorld'],['Ludeon Studios'],['Ludeon Studios'],['Oct172018'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,,23987.0,87%,$44.99,['PlanetZoo'],['Frontier Developments'],['Frontier Developments'],['Nov52019'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,,20722.0,80%,$49.99,['MortalKombat11'],"['NetherRealm Studios', 'QLOC', 'Shiver']",['Warner Bros Interactive Entertainment'],['Apr232019'],['Mortal Kombat'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,,42845.0,90%,$19.99,['ScrapMechanic'],['Axolot Games'],['Axolot Games'],['Jan192016'],[],1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+40,,76918.0,95%,$44.99,['DivinityOriginalSin2DefinitiveEdition'],['Larian Studios'],['Larian Studios'],['Sep142017'],[],0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,,204404.0,97%,$14.99,['StardewValley'],['ConcernedApe'],['ConcernedApe'],['Feb262016'],[],0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,,52252.0,86%,$39.99,['EuropaUniversalisIV'],['Paradox Development Studio'],['Paradox Interactive'],['Aug132013'],['Europa Universalis'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,,1225681.0,53%,$29.99,['PLAYERUNKNOWNSBATTLEGROUNDS'],['PUBG Corporation'],['PUBG Corporation'],['Dec212017'],[],1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,,10912.0,46%,$39.99,['MonsterHunterWorldIceborne'],"['CAPCOM Co.', 'Ltd.']","['CAPCOM Co.', 'Ltd.']",['Jan92020'],['Monster Hunter'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,$14.99                    ,13639.0,88%,$24.99,['Overcooked2'],"['Ghost Town Games Ltd.', 'Team17 Digital Ltd']",['Team17 Digital Ltd'],['Aug72018'],['Team17 Digital'],1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+46,,119589.0,76%,$29.99,['Fallout4'],['Bethesda Game Studios'],['Bethesda Softworks'],['Nov92015'],['Fallout'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,,1592.0,72%,$39.99,['SidMeiersCivilizationVIGatheringStorm'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Feb132019'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,,49640.0,78%,Free to Play,['WorldofWarships'],['Wargaming Group Limited'],['Wargaming Group Limited'],['Nov152017'],['Warhammer'],1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,,22576.0,88%,$19.99,['HouseFlipper'],['Empyrean'],"['Frozen District', 'PlayWay S.A.']",['May172018'],['House Flipper'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,,65115.0,91%,$39.99,['HeartsofIronIV'],['Paradox Development Studio'],['Paradox Interactive'],['Jun62016'],['Hearts of Iron IV'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,,178.0,53%,$39.99,['TheElderScrollsOnlineGreymoor'],['Zenimax Online Studios'],['Bethesda Softworks'],['May262020'],[],1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,,23060.0,46%,$59.99,['NBA2K20'],['Visual Concepts'],['2K'],['Sep52019'],['NBA 2K'],0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+53,,37015.0,84%,$59.99,['TotalWarTHREEKINGDOMS'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['May232019'],['Total War'],1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,,26541.0,77%,$59.99,['TotalWarWARHAMMER'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['SEGA', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",['May242016'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,,41420.0,91%,$19.99,['AgeofEmpiresIIDefinitiveEdition'],"['Forgotten Empires', 'Tantalus Media', 'Wicked Witch']",['Xbox Game Studios'],['Nov142019'],['Age of Empires'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,,46950.0,81%,$39.99,['HuntShowdown'],['Crytek'],['Crytek'],['Aug272019'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,,59027.0,88%,$59.99,['AssassinsCreedOdyssey'],"['Ubisoft Quebec', 'Ubisoft Montreal', 'Ubisoft Bucharest', 'Ubisoft Singapore', 'Ubisoft Montpellier', 'Ubisoft Kiev', 'Ubisoft Shanghai']",['Ubisoft'],['Oct52018'],"['""Assassin\'s Creed""']",1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,,85316.0,83%,$24.99,['7DaystoDie'],['The Fun Pimps'],['The Fun Pimps Entertainment LLC'],['Dec132013'],[],1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+59,,491.0,88%,$39.99,['FINALFANTASYXIVShadowbringers'],['Square Enix'],['Square Enix'],['Jul22019'],['FINAL FANTASY'],0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,,115171.0,90%,$29.99,['Arma3'],['Bohemia Interactive'],['Bohemia Interactive'],['Sep122013'],['Arma Franchise'],1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,,59147.0,96%,$19.99,['RiskofRain2'],['Hopoo Games'],['Gearbox Publishing'],['Mar282019'],[],1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+62,,467848.0,96%,$9.99,['GarrysMod'],['Facepunch Studios'],['Valve'],['Nov292006'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,,167308.0,98%,$3.99,['WallpaperEngine'],['Wallpaper Engine Team'],['Wallpaper Engine Team'],['Nov162018'],[],0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+64,,43443.0,91%,$59.99,['STARWARSJediFallenOrder'],['Respawn Entertainment'],['Electronic Arts'],['Nov142019'],['Star Wars'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,,822.0,95%,$29.99,['TheJackboxPartyPack6'],"['Jackbox Games', 'Inc.']","['Jackbox Games', 'Inc.']",['Oct162019'],[],0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+66,,8670.0,79%,$19.99,['Deadside'],['Bad Pixel'],['Bad Pixel'],['Apr142020'],[],1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+67,,21138.0,82%,Free to Play,['YuGiOhDuelLinks'],['Konami Digital Entertainment'],['Konami Digital Entertainment'],['Nov162017'],[],0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,,21386.0,84%,$39.99,['RemnantFromtheAshes'],['Gunfire Games'],['Perfect World Entertainment'],['Aug192019'],[],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,,13137.0,85%,$24.99,['GreenHell'],['Creepy Jar'],['Creepy Jar'],['Sep52019'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,,195063.0,65%,$44.99,['DayZ'],['Bohemia Interactive'],['Bohemia Interactive'],['Dec132018'],[],1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,,61042.0,93%,$59.99,['SekiroShadowsDieTwice'],['FromSoftware'],"['Activision (Excluding Japan and Asia)', 'FromSoftware (Japan)', '方块游戏 (Asia)']",['Mar212019'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,,36454.0,76%,$39.99,['ConanExiles'],['Funcom'],['Funcom'],['May82018'],['Funcom'],1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,,1219.0,87%,$22.99,['SpaceHaven'],['Bugbyte Ltd.'],['Bugbyte Ltd.'],['May212020'],[],0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+74,,10646.0,87%,$34.99,['GTFO'],['10 Chambers Collective'],['10 Chambers Collective'],['Dec92019'],[],1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+75,,121565.0,92%,$59.99,['DARKSOULSIII'],"['FromSoftware', 'Inc.']","['FromSoftware', 'Inc.', 'BANDAI NAMCO Entertainment']",['Apr112016'],['FRANCHISE'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,,154238.0,84%,Free to Play,['Brawlhalla'],['Blue Mammoth Games'],['Ubisoft'],['Oct172017'],[],1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,,21107.0,90%,$24.99,['FarmingSimulator19'],['Giants Software'],['Focus Home Interactive'],['Nov192018'],['Farming Simulator'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,$23.99                    ,11323.0,84%,$29.99,['HellLetLoose'],['Black Matter Pty Ltd'],['Team17 Digital Ltd'],['Jun62019'],['Team17 Digital'],1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+79,,1887.0,96%,$24.99,['TheJackboxPartyPack3'],"['Jackbox Games', 'Inc.']","['Jackbox Games', 'Inc.']",['Oct172016'],[],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+80,,41281.0,94%,$19.99,['AmericanTruckSimulator'],['SCS Software'],['SCS Software'],['Feb22016'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,,10613.0,91%,$14.99,['PummelParty'],['Rebuilt Games'],['Rebuilt Games'],['Sep202018'],[],1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+82,,36514.0,87%,$39.99,['Squad'],['Offworld Industries'],['Offworld Industries'],['Dec142015'],['Offworld Industries'],1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+83,,66818.0,88%,$19.99,['SpaceEngineers'],['Keen Software House'],['Keen Software House'],['Feb282019'],[],1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,,793.0,72%,$8.99,['TotalWarWARHAMMERIITheWardenThePaunch'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive']",['May212020'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,,60231.0,93%,$39.99,['KerbalSpaceProgram'],['Squad'],['Private Division'],['Apr272015'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,,602.0,82%,$9.99,['iRacing'],"['iRacing.com Motorsport Simulations', 'iRacing']","['iRacing.com Motorsport Simulations', 'iRacing']",['Jan122015'],[],0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+87,$11.99                    ,17910.0,92%,$29.99,['MyTimeAtPortia'],['Pathea Games'],['Team17 Digital Ltd'],['Jan152019'],"['Team17 Digital', 'Pathea Games']",0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+88,$13.19                    ,4728.0,92%,$21.99,['ChildrenofMorta'],['Dead Mage'],['11 bit studios'],['Sep32019'],['11 bit studios'],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,,345280.0,98%,$39.99,['TheWitcher3WildHunt'],['CD PROJEKT RED'],['CD PROJEKT RED'],['May182015'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,,351.0,96%,$14.99,['PolyBridge2'],['Dry Cactus'],['Dry Cactus'],['May282020'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,,34508.0,84%,Free to Play,['RealmoftheMadGod'],"['Wild Shadow Studios', 'Deca Games']",['Deca Games'],['Feb202012'],[],1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,$6.79                    ,5853.0,82%,$19.99,['Moonlighter'],['Digital Sun'],['11 bit studios'],['May292018'],['11 bit studios'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,,35273.0,95%,,['OriandtheBlindForest'],['Moon Studios GmbH'],['Xbox Game Studios'],['Mar112015'],['Ori'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,,0.0,No Rating,$19.99,['CommandConquerRemasteredCollection'],['Petroglyph'],['Electronic Arts'],['Jun52020'],['Command and Conquer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,,9266.0,71%,$29.99,['StateofDecay2JuggernautEdition'],['Undead Labs'],['Xbox Game Studios'],['Mar132020'],[],1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,,115630.0,96%,$14.99,['DontStarveTogether'],['Klei Entertainment'],['Klei Entertainment'],['Apr212016'],['Klei Entertainment'],0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,,17504.0,94%,$39.99,['DiscoElysium'],['ZA/UM'],['ZA/UM'],['Oct152019'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,$25.49                    ,993.0,70%,$29.99,['DungeonDefendersAwakened'],['Chromatic Games'],['Chromatic Games'],['May282020'],['Dungeon Defenders'],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,,57524.0,83%,$29.99,['MORDHAU'],['Triternion'],['Triternion'],['Apr292019'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,,16860.0,87%,$59.99,['DRAGONBALLFighterZ'],['Arc System Works'],['BANDAI NAMCO Entertainment'],['Jan262018'],['FRANCHISE'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,,33997.0,94%,$24.99,['BeamNGdrive'],['BeamNG'],['BeamNG'],['May292015'],[],0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+102,,20506.0,89%,$14.99,['GolfWithYourFriends'],['Blacklight Interactive'],['Team17 Digital Ltd'],['May192020'],['Team17 Digital'],0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+103,,18371.0,83%,$19.99,['TheSims3'],['The Sims Studio'],['Electronic Arts'],['Jun22009'],['The Sims'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,,18027.0,76%,Free To Play,['EVEOnline'],['CCP'],['CCP'],['May62003'],[],1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,,25407.0,80%,$44.99,['JurassicWorldEvolution'],['Frontier Developments'],['Frontier Developments'],['Jun122018'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,,1018.0,83%,$19.99,['RimWorldRoyalty'],['Ludeon Studios'],[],['Feb242020'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,,61887.0,98%,$30.00,['Factorio'],['Wube Software LTD.'],['Wube Software LTD.'],['Feb252016'],[],0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+108,,268551.0,85%,Free to Play,['Paladins'],['Evil Mojo Games'],['Hi-Rez Studios'],['May82018'],[],1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,,37311.0,85%,$59.99,['XCOM2'],"['Firaxis Games', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['2K', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Feb42016'],['XCOM'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,,29673.0,81%,$59.99,['TotalWarROMEIIEmperorEdition'],['CREATIVE ASSEMBLY'],['SEGA'],['Sep22013'],['Total War'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,,63495.0,89%,$24.99,['DarkestDungeon'],['Red Hook Studios'],['Red Hook Studios'],['Jan192016'],[],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,,30529.0,89%,$44.99,['PlanetCoaster'],['Frontier Developments'],['Frontier Developments'],['Nov172016'],['Planet Coaster'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,,100096.0,96%,$29.99,['SidMeiersCivilizationV'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Sep212010'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,,1948.0,59%,$29.99,['SidMeiersCivilizationVIRiseandFall'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Feb72018'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,,230634.0,96%,$9.99,['Left4Dead2'],['Valve'],['Valve'],['Nov162009'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,,37392.0,78%,$29.99,['WarhammerVermintide2'],['Fatshark'],['Fatshark'],['Mar82018'],"['Fatshark', 'Warhammer']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,,0.0,No Rating,$59.99,['Cyberpunk2077'],['CD PROJEKT RED'],['CD PROJEKT RED'],['Sep162020'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,,8217.0,88%,$9.99,['KovaaK20TheMeta'],['The Meta'],['The Meta'],['Apr32018'],[],1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,,2597.0,51%,$34.99,['ARKGenesisSeasonPass'],"['Studio Wildcard', 'Instinct Games', 'Efecto Studios', 'Virtual Basement LLC']","['Snail Games USA', 'Studio Wildcard']",['Aug82019'],[],1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,,55239.0,90%,Free To Play,['CrusaderKingsII'],['Paradox Development Studio'],['Paradox Interactive'],['Feb142012'],['Crusader Kings'],0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,,12523.0,77%,Free to Play,['StarTrekOnline'],['Cryptic Studios'],['Perfect World Entertainment'],['Feb22010'],[],0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,,686.0,77%,$16.99,['FrostpunkTheLastAutumn'],['11 bit studios'],['11 bit studios'],['Jan212020'],"['Frostpunk', '11 bit studios']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,$5.99                    ,9554.0,87%,$19.99,['TheEscapists2'],"['Team17 Digital Ltd', 'Mouldy Toof Studios']",['Team17 Digital Ltd'],['Aug212017'],['Team17 Digital'],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,,14252.0,89%,$59.99,['CODEVEIN'],['BANDAI NAMCO Studios'],['BANDAI NAMCO Entertainment'],['Sep262019'],"['FRANCHISE', 'BANDAI NAMCO Entertainment']",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,,41197.0,92%,$24.99,['GrimDawn'],['Crate Entertainment'],['Crate Entertainment'],['Feb252016'],[],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,,19457.0,85%,$39.99,['MetroExodus'],['4A Games'],['Deep Silver'],['Feb142019'],['Metro'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,,227429.0,97%,$19.99,['EuroTruckSimulator2'],['SCS Software'],['SCS Software'],['Oct182012'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,,51048.0,89%,$29.99,['ASTRONEER'],['System Era Softworks'],['System Era Softworks'],['Dec162016'],[],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,,3211.0,88%,$24.99,['TomClancysRainbowSixSiegeYear5Pass'],['Ubisoft Montreal'],['Ubisoft'],['Feb182020'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,,652.0,89%,$29.99,['TheJackboxPartyPack5'],"['Jackbox Games', 'Inc.']","['Jackbox Games', 'Inc.']",['Oct172018'],[],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+131,,17424.0,72%,$59.99,['RESIDENTEVIL3'],"['CAPCOM Co.', 'Ltd.']","['CAPCOM Co.', 'Ltd.']",['Apr22020'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,,34445.0,83%,$19.99,['theHunterCalloftheWild'],['Expansive Worlds'],['Expansive Worlds'],['Feb162017'],[],0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+133,,47056.0,77%,Free to Play,['WorldofTanksBlitz'],['Wargaming Group Limited'],['Wargaming Group Limited'],['Nov92016'],[],1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,,691.0,73%,$19.99,['StellarisFederations'],['Paradox Development Studio'],['Paradox Interactive'],['Mar172020'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,$3.99                    ,51310.0,94%,$19.99,['ThisWarofMine'],['11 bit studios'],['11 bit studios'],['Nov142014'],['11 bit studios'],0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,,14936.0,90%,,['HITMAN2'],['IO Interactive A/S'],['Warner Bros Interactive Entertainment'],['Nov132018'],['Hitman'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,,44801.0,60%,$14.99,['FORHONOR'],"['Ubisoft Montreal', 'Ubisoft Quebec', 'Ubisoft Toronto', 'Blue Byte']",['Ubisoft'],['Feb132017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,,9392.0,70%,Free To Play,['ConquerorsBlade'],['Booming Games'],['MY.GAMES'],['May302019'],[],1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,,526.0,91%,$39.99,['OutoftheParkBaseball21'],['Out of the Park Developments'],['Out of the Park Developments'],['Mar202020'],['Out of the Park Baseball'],0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+140,,22749.0,86%,$19.99,['CarMechanicSimulator2018'],['Red Dot Games'],['PlayWay S.A.'],['Jul282017'],"['PlayWay S.A.', 'Red Dot Games and Friends']",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+141,,73477.0,95%,$9.99,['FalloutNewVegas'],['Obsidian Entertainment'],['Bethesda Softworks'],['Oct192010'],['Fallout'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,,10515.0,83%,$59.99,['CallofDutyBlackOpsII'],['Treyarch'],['Activision'],['Nov122012'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,,150646.0,98%,$9.99,['Portal2'],['Valve'],['Valve'],['Apr182011'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,$7.49                    ,2950.0,82%,$29.99,['WormsWMD'],['Team17 Digital Ltd'],['Team17 Digital Ltd'],['Aug232016'],['Team17 Digital'],1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,,22887.0,95%,$9.99,['BloonsTD6'],['Ninja Kiwi'],['Ninja Kiwi'],['Dec172018'],['Bloons TD'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,,16897.0,93%,$19.99,['PCBuildingSimulator'],"['Claudiu Kiss', 'The Irregular Corporation']",['The Irregular Corporation'],['Jan292019'],['The Irregular Corporation'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,,723.0,91%,$24.99,['TheJackboxPartyPack4'],"['Jackbox Games', 'Inc.']","['Jackbox Games', 'Inc.']",['Oct182017'],[],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+148,,2004.0,94%,$49.99,['TrialsofMana'],['Square Enix'],['Square Enix'],['Apr242020'],['Mana Series'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,,18228.0,98%,$24.99,['Hades'],['Supergiant Games'],['Supergiant Games'],['Dec102019'],['Supergiant Games'],1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+150,,18413.0,93%,$19.99,['SubnauticaBelowZero'],['Unknown Worlds Entertainment'],['Unknown Worlds Entertainment'],['Jan302019'],[],0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+151,,267.0,95%,$29.99,['ShantaeandtheSevenSirens'],['WayForward'],['WayForward'],['May282020'],[],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,,20542.0,80%,$19.99,['TheIsle'],['Afterthought LLC'],['Afterthought LLC'],['Dec12015'],[],1,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+153,,2664.0,76%,$59.99,['GearsTactics'],"['Splash Damage', 'The Coalition']",['Xbox Game Studios'],['Apr282020'],['Gears of War'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,,147525.0,95%,$19.99,['Borderlands2'],"['Gearbox Software', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Sep172012'],['Borderlands'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,,91213.0,98%,$14.99,['TheBindingofIsaacRebirth'],"['Nicalis', 'Inc.']","['Nicalis', 'Inc.']",['Nov42014'],['Binding of Isaac'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,,18406.0,53%,$29.99,['MafiaIIIDefinitiveEdition'],"['Hangar 13', 'Aspyr (Mac)']","['2K', 'Aspyr (Mac)']",['May192020'],['Mafia'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,,16333.0,67%,$29.99,['LastOasis'],['Donkey Crew'],['Donkey Crew'],['Mar262020'],[],1,0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+158,,20082.0,80%,$39.99,['DARKSOULSREMASTERED'],['QLOC'],"['FromSoftware', 'Inc', 'BANDAI NAMCO Entertainment']",['May232018'],['FRANCHISE'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,,80764.0,96%,$14.99,['HollowKnight'],['Team Cherry'],['Team Cherry'],['Feb242017'],['Hollow Knight'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,,10169.0,92%,$59.99,['DRAGONBALLZKAKAROT'],['CyberConnect2 Co. Ltd.'],['BANDAI NAMCO Entertainment'],['Jan162020'],"['FRANCHISE', 'BANDAI NAMCO Entertainment']",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,,12786.0,72%,$19.99,['XCOMChimeraSquad'],['Firaxis Games'],['2K'],['Apr232020'],['XCOM'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,,30858.0,97%,$14.99,['TotallyAccurateBattleSimulator'],['Landfall'],['Landfall'],['Apr12019'],[],0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+163,,54141.0,83%,Free to Play,['PlanetSide2'],['Rogue Planet Games'],['Daybreak Game Company'],['Nov202012'],['PlanetSide'],1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,,71559.0,93%,$14.99,['HumanFallFlat'],['No Brakes Games'],['Curve Digital'],['Jul222016'],['Curve Digital'],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,,2116.0,77%,$39.99,['Warhammer40000GladiusRelicsofWar'],['Proxy Studios'],['Slitherine Ltd.'],['Jul122018'],['Warhammer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,,37948.0,83%,$29.99,['InsurgencySandstorm'],['New World Interactive'],['Focus Home Interactive'],['Dec122018'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,,19247.0,87%,$34.99,['Temtem'],['Crema'],['Humble Games'],['Jan212020'],[],0,0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+168,,16755.0,74%,Free to Play,['AlbionOnline'],['Sandbox Interactive GmbH'],['Sandbox Interactive GmbH'],['Jul172017'],[],0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,,42720.0,79%,$29.99,['KingdomComeDeliverance'],['Warhorse Studios'],"['Warhorse Studios', 'Deep Silver']",['Feb132018'],"['Kingdom Come Franchise', 'Warhorse Studios', 'Deep Silver']",1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,,15260.0,73%,$9.99,['UNO'],['Ubisoft Entertainment'],['Ubisoft Entertainment'],['Dec82016'],[],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+171,,23187.0,82%,,['ShadowoftheTombRaiderDefinitiveEdition'],"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes software', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']","['Square Enix', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']",['Sep142018'],['Tomb Raider'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,,727.0,95%,$24.99,['TheJackboxPartyPack2'],"['Jackbox Games', 'Inc.']","['Jackbox Games', 'Inc.']",['Oct132015'],[],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+173,,4633.0,87%,$19.99,['DrugDealerSimulator'],['Byterunners Game Studio'],"['Movie Games S.A.', 'PlayWay S.A.']",['Apr162020'],['Movie Games S.A.'],1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,,54921.0,74%,$59.99,['FarCry5'],"['Ubisoft Montreal', 'Red Storm', 'Ubisoft Shanghai', 'Ubisoft Toronto', 'Ubisoft Kiev']",['Ubisoft'],['Mar262018'],['Far Cry'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,,7117.0,91%,$29.99,['Rocksmith2014EditionRemastered'],['Ubisoft - San Francisco'],['Ubisoft'],['Oct42016'],[],0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+176,,5931.0,87%,$39.99,['CallofDutyBlackOps'],['Treyarch'],['Activision'],['Nov92010'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,,21415.0,86%,$29.99,['Northgard'],['Shiro Games'],['Shiro Games'],['Mar72018'],['Shiro Games'],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,,4650.0,86%,$19.99,['SkaterXLTheUltimateSkateboardingGame'],['Easy Day Studios Pty Ltd'],['Easy Day Studios Pty Ltd'],['Dec192018'],[],1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+179,,11778.0,66%,$29.99,['TrainSimulator2020'],['Dovetail Games'],['Dovetail Games - Trains'],['Jul122009'],['Train Simulator'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,,22605.0,83%,$39.99,['TEKKEN7'],['BANDAI NAMCO Studios Inc.'],['BANDAI NAMCO Entertainment'],['Jun12017'],['FRANCHISE'],1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+181,,28101.0,77%,Free to Play,['Neverwinter'],['Cryptic Studios'],['Perfect World Entertainment'],['Dec52013'],[],0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,,27607.0,93%,$29.99,['Kenshi'],['Lo-Fi Games'],['Lo-Fi Games'],['Dec62018'],[],1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,,3832.0,79%,$39.99,['BattlefleetGothicArmada2'],['Tindalos Interactive'],['Focus Home Interactive'],['Jan242019'],['Warhammer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,,6010.0,85%,$19.99,['ProjectWinter'],['Other Ocean Interactive'],['Other Ocean Group'],['May232019'],[],1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+185,,11312.0,86%,$49.99,['FootballManager2020'],['Sports Interactive'],['SEGA'],['Nov182019'],['Football Manager'],0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+186,,1126.0,74%,$24.99,['Destiny2Forsaken'],['Bungie'],['Bungie'],['Sep42018'],['Destiny'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,,263.0,75%,$39.99,['MortalKombat11Aftermath'],"['NetherRealm Studios', 'QLOC', 'Shiver']",[],['May262020'],['Mortal Kombat'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,,1555.0,87%,$18.99,['TotalWarWARHAMMERIIRiseoftheTombKings'],"['CREATIVE ASSEMBLY', 'Feral Interactive']","['SEGA', 'Feral Interactive']",['Jan232018'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,,36277.0,95%,$19.99,['BlackMesa'],['Crowbar Collective'],['Crowbar Collective'],['Mar62020'],[],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,,14629.0,83%,$24.99,['MicrosoftFlightSimulatorXSteamEdition'],['Microsoft Game Studios'],['Xbox Game Studios'],['Oct162006'],[],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,,1587.0,73%,Free To Play,['ShopTitans'],"['Kabam Games', 'Inc.']","['Kabam Games', 'Inc.']",['May52020'],[],0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+192,,1533.0,81%,$34.99,['LastEpoch'],['Eleventh Hour Games'],['Eleventh Hour Games'],['Apr302019'],[],1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+193,,20807.0,89%,$39.99,['AgeofEmpiresIIICompleteCollection'],['Ensemble Studios'],['Xbox Game Studios'],['Sep152009'],['Age of Empires'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,,965.0,92%,$24.99,['TheJackboxPartyPack'],"['Jackbox Games', 'Inc.']","['Jackbox Games', 'Inc.']",['Nov262014'],[],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+195,,45200.0,85%,$39.99,['NieRAutomata'],"['Square Enix', 'PlatinumGames Inc.']",['Square Enix'],['Mar172017'],['NIER'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,,6291.0,85%,$39.99,['PillarsofEternityIIDeadfire'],['Obsidian Entertainment'],"['Versus Evil', 'Obsidian Entertainment']",['May82018'],['Versus Evil'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,,1019.0,79%,$18.99,['TotalWarWARHAMMERIICurseoftheVampireCoast'],"['CREATIVE ASSEMBLY', 'Feral Interactive']","['SEGA', 'Feral Interactive']",['Nov82018'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,,12312.0,79%,$39.99,['BATTLETECH'],['Harebrained Schemes'],['Paradox Interactive'],['Apr242018'],[],1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,,19670.0,90%,$29.99,['TotalWarSHOGUN2'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Mar152011'],['Total War'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,,8111.0,78%,$29.99,['PostScriptum'],['Periscope Games'],['Offworld Industries'],['Aug92018'],['Offworld Industries'],1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,,4168.0,55%,Free To Play,['WarRobots'],['Pixonic'],['Pixonic'],['Apr52018'],[],1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,,37563.0,97%,$19.99,['SlimeRancher'],['Monomi Park'],['Monomi Park'],['Aug12017'],[],1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,$5.99                    ,16666.0,88%,$29.99,['MenofWarAssaultSquad2'],['Digitalmindsoft'],['1C Entertainment'],['May152014'],['1C'],1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,$14.99                    ,4415.0,87%,$24.99,['Blasphemous'],['The Game Kitchen'],['Team17 Digital Ltd'],['Sep102019'],['Team17 Digital'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,,180.0,86%,$9.99,['HouseFlipperHGTVDLC'],['Empyrean'],"['Frozen District', 'PlayWay S.A.']",['May142020'],['House Flipper'],0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+206,,73830.0,79%,Free to Play,['Trove'],['Trion Worlds'],['Trion Worlds'],['Jul92015'],[],1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+207,,2065.0,69%,Free,['LordsMobile'],['IGG SINGAPORE PTE. LTD.'],['IGG SINGAPORE PTE. LTD.'],['Jun22019'],[],0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,,43988.0,97%,$39.99,['RESIDENTEVIL2BIOHAZARDRE2'],"['CAPCOM Co.', 'Ltd.']","['CAPCOM Co.', 'Ltd.']",['Jan242019'],['Resident Evil'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,,2417.0,80%,$49.99,['AgeofWondersPlanetfall'],['Triumph Studios'],['Paradox Interactive'],['Aug62019'],['Age of Wonders'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,,1032.0,90%,$29.99,['CallofDutyBlackOpsIIIZombiesChronicles'],"['Treyarch', 'Aspyr (Mac)']","['Activision', 'Aspyr (Mac)']",['Jun152017'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,$9.99                    ,3346.0,95%,$19.99,['SYNTHETIKLegionRising'],['Flow Fire Games'],['Flow Fire Games'],['Mar152018'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,,8435.0,75%,$39.99,['Outward'],['Nine Dots Studio'],['Deep Silver'],['Mar262019'],['Outward'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,,43874.0,96%,$24.99,['OxygenNotIncluded'],['Klei Entertainment'],['Klei Entertainment'],['Jul302019'],['Klei Entertainment'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,,5586.0,90%,$24.99,['StreetsofRage4'],"['Dotemu', 'Guard Crush Games', 'Lizardcube']","['Dotemu', 'Yooreka Studio (Greater China)']",['Apr302020'],['Dotemu'],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,,6948.0,71%,$49.99,['X4Foundations'],['Egosoft'],['Egosoft'],['Nov302018'],['X'],1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,,268.0,92%,$44.99,['SuperMegaBaseball3'],['Metalhead Software Inc.'],['Metalhead Software Inc.'],['May132020'],[],1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+217,,470.0,77%,$8.99,['TotalWarWARHAMMERIITheShadowTheBlade'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Dec122019'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,,23822.0,93%,$19.99,['CallofDutyWorldatWar'],['Treyarch'],['Activision'],['Nov182008'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,,18841.0,72%,$19.99,['GangBeasts'],['Boneloaf'],['Double Fine Presents'],['Dec122017'],[],1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+220,,38778.0,78%,$19.99,['CompanyofHeroes2'],"['Relic Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Jun252013'],['Company of Heroes'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,,671.0,81%,$69.99,['AIShoujoAI少女'],['ILLUSION'],['ILLUSION'],['Mar162020'],[],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,,14460.0,81%,$39.99,['Wreckfest'],['Bugbear'],['THQ Nordic'],['Jun142018'],['Wreckfest'],1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+223,,8356.0,86%,$49.99,['Tropico6'],['Limbic Entertainment'],['Kalypso Media'],['Mar292019'],['Tropico'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,,32813.0,74%,Free To Play,['Crossout'],['Targem Games'],['Gaijin Distribution KFT'],['Jul262017'],[],1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+225,$14.99                    ,3151.0,70%,$29.99,['TheDarkPicturesAnthologyManofMedan'],['Supermassive Games'],['BANDAI NAMCO Entertainment Europe'],['Aug292019'],['The Dark Pictures'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,,60386.0,97%,$24.99,['SlaytheSpire'],['Mega Crit Games'],['Mega Crit Games'],['Jan232019'],[],0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,,1934.0,75%,Free To Play,['Wizard101'],['KingsIsle Entertainment'],['KingsIsle Entertainment'],['Sep22008'],[],0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,,65016.0,95%,$19.99,['AgeofEmpiresII2013'],"['Skybox Labs', 'Hidden Path Entertainment', 'Ensemble Studios', 'Forgotten Empires']",['Xbox Game Studios'],['Apr92013'],['Age of Empires'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,,49138.0,96%,$19.99,['Cuphead'],['Studio MDHR Entertainment Inc.'],['Studio MDHR Entertainment Inc.'],['Sep292017'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,,12105.0,95%,$17.99,['Noita'],['Nolla Games'],['Nolla Games'],['Sep242019'],[],1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+231,,10753.0,80%,Play for Free!,['TheLordoftheRingsOnline'],"['Standing Stone Games', 'LLC']","['Standing Stone Games', 'LLC']",['Jun62012'],[],0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,,59747.0,88%,$29.99,['KillingFloor2'],['Tripwire Interactive'],['Tripwire Interactive'],['Nov182016'],['Tripwire Interactive'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,,2330.0,80%,$59.99,['GranblueFantasyVersus'],"['Cygames', 'Inc.', 'Arc System Works']","['XSEED Games', 'Marvelous USA', 'Inc.']",['Mar132020'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,,2714.0,85%,$39.99,['XCOM2WaroftheChosen'],"['Firaxis Games', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['2K', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Dec32018'],['XCOM'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,,220.0,60%,$9.99,['PlanetZooSouthAmericaPack'],['Frontier Developments'],['Frontier Developments'],['Apr72020'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,,12895.0,89%,Free to Play,['CrushCrush'],['Sad Panda Studios'],['Sad Panda Studios'],['May132016'],[],0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+237,,0.0,No Rating,$49.99,['CrusaderKingsIII'],['Paradox Development Studio'],['Paradox Interactive'],['Sep12020'],['Crusader Kings'],0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,$7.99                    ,883.0,76%,$39.99,['ShadowsAwakening'],['Games Farm'],['Kalypso Media'],['Aug312018'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,,17135.0,95%,$19.99,['TheElderScrollsIVOblivionGameoftheYearEditionDeluxe'],['Bethesda Game Studios®'],['Bethesda Softworks'],['Jun162009'],[],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,,17135.0,95%,$14.99,['TheElderScrollsIVOblivionGameoftheYearEdition'],['Bethesda Game Studios'],['Bethesda Softworks'],['Sep112007'],['The Elder Scrolls'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,,1068.0,74%,$19.99,['TotalTankSimulator'],['Noobz from Poland'],['505 Games'],['May202020'],[],1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,$9.99                    ,13721.0,88%,$24.99,['SUPERHOT'],['SUPERHOT Team'],['SUPERHOT Team'],['Feb252016'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,,43904.0,96%,$24.99,['DeadCells'],['Motion Twin'],['Motion Twin'],['Aug62018'],['Dead Cells'],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,,6126.0,83%,$49.99,['DJMAXRESPECTV'],['NEOWIZ'],['NEOWIZ'],['Mar112020'],['NEOWIZ'],1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+245,,327.0,54%,$9.99,['RemnantFromtheAshesSwampsofCorsus'],['Gunfire Games'],['Perfect World Entertainment'],['Apr282020'],[],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,,24151.0,74%,$14.99,['StrandedDeep'],['Beam Team Games'],['Beam Team Pty Ltd'],['Jan232015'],[],0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+247,,1159.0,61%,$8.99,['TotalWarWARHAMMERIITheHunterTheBeast'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",[],['Sep112019'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,,7701.0,70%,$49.99,['Warhammer40000InquisitorMartyr'],['NeocoreGames'],['NeocoreGames'],['Jun52018'],['Warhammer'],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,,37815.0,92%,$29.99,['PrisonArchitect'],"['Double Eleven', 'Introversion Software']",['Paradox Interactive'],['Oct62015'],['Prison Architect'],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,,7485.0,80%,$49.99,['GreedFall'],['Spiders'],['Focus Home Interactive'],['Sep92019'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,,311.0,55%,$14.99,['CitiesSkylinesSunsetHarbor'],['Colossal Order Ltd.'],['Paradox Interactive'],['Mar262020'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,,485.0,64%,$14.99,['GardenFlipper'],['Empyrean'],"['Frozen District', 'PlayWay S.A.']",['May162019'],['House Flipper'],0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+253,,17566.0,63%,Free to Play,['TreeofSaviorEnglishVer'],"['IMCGAMES Co.', 'Ltd.']","['IMCGAMES Co.', 'Ltd.']",['Mar282016'],[],0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,,1105.0,41%,$19.99,['ExpansionHeartsofIronIVLaRésistance'],['Paradox Development Studio'],['Paradox Interactive'],['Feb252020'],['Hearts of Iron IV'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,,776.0,87%,$8.99,['TotalWarWARHAMMERIITheProphetTheWarlock'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Apr172019'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,,8321.0,82%,$29.99,['SurvivingMars'],['Haemimont Games'],['Paradox Interactive'],['Mar152018'],['Surviving'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257,,13845.0,61%,$19.99,['StreetFighterV'],['Capcom'],['Capcom'],['Feb152016'],['Street Fighter'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,,757.0,78%,$39.99,['FantasyGrounds'],"['SmiteWorks USA', 'LLC']","['SmiteWorks USA', 'LLC']",['May92014'],[],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+259,,9404.0,82%,$59.99,['ACECOMBAT7SKIESUNKNOWN'],['BANDAI NAMCO Studios Inc.'],['BANDAI NAMCO Entertainment'],['Jan312019'],['BANDAI NAMCO Entertainment'],1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,,6357.0,87%,$24.99,['HouseParty'],"['Eek! Games', 'LLC']","['Eek! Games', 'LLC']",['Jun302017'],[],0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+261,,65429.0,91%,$14.99,['Starbound'],['Chucklefish'],['Chucklefish'],['Jul222016'],['Chucklefish'],1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+262,,8339.0,85%,$24.99,['DawnofMan'],['Madruga Works'],['Madruga Works'],['Mar12019'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,,20165.0,79%,$34.99,['FINALFANTASYXVWINDOWSEDITION'],['Square Enix'],['Square Enix'],['Mar62018'],['FINAL FANTASY'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,,19509.0,77%,$49.99,['TheCrew2'],['Ivory Tower'],['Ubisoft'],['Jun282018'],[],1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+265,,17901.0,94%,$44.99,['APlagueTaleInnocence'],['Asobo Studio'],['Focus Home Interactive'],['May142019'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,,12434.0,77%,$29.99,['PathfinderKingmakerEnhancedEdition'],['Owlcat Games'],['Deep Silver'],['Sep252018'],['Pathfinder'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,,45061.0,84%,$59.99,['AssassinsCreedOrigins'],['Ubisoft Montreal'],['Ubisoft'],['Oct262017'],"['""Assassin\'s Creed""']",1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,$4.19                    ,72.0,52%,$6.99,['MoonlighterBetweenDimensions'],['Digital Sun'],['11 bit studios'],['Jul232019'],"['Moonlighter', '11 bit studios']",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,,20498.0,79%,Free to Play,['FishingPlanet'],['Fishing Planet LLC'],['Fishing Planet LLC'],['Aug112015'],[],0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+270,,6070.0,82%,Free to Play,['IdleChampionsoftheForgottenRealms'],['Codename Entertainment Inc.'],['Codename Entertainment Inc.'],['Mar252020'],[],1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,,6602.0,69%,Free to Play,['MapleStory'],['Nexon'],['Nexon America Inc.'],['Aug92012'],[],0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+272,,14374.0,89%,$29.99,['AgeofMythologyExtendedEdition'],"['SkyBox Labs', 'Ensemble Studios']",['Xbox Game Studios'],['May82014'],['Age of Empires'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,,4364.0,84%,Free To Play,['GWENTTheWitcherCardGame'],['CD PROJEKT RED'],['CD PROJEKT RED'],['May192020'],[],0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,,75180.0,94%,$19.99,['DOOM'],['id Software'],['Bethesda Softworks'],['May122016'],['DOOM'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,,3636.0,43%,$14.99,['MONOPOLYPLUS'],['Ubisoft Pune'],['Ubisoft'],['Sep72017'],[],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+276,,1769.0,81%,$9.99,['Hydroneer'],['Foulball Hangover'],['Foulball Hangover'],['May82020'],[],0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+277,,24649.0,92%,$39.99,['AlienIsolation'],"['Creative Assembly', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Oct62014'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,,1787.0,88%,$19.99,['Cloudpunk'],['ION LANDS'],"['ION LANDS', 'Maple Whispering Limited']",['Apr232020'],[],0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,,105.0,91%,$9.99,['BrawlhallaBattlePassSeason1'],['Blue Mammoth Games'],['Ubisoft'],['May192020'],[],1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,$26.99                    ,0.0,No Rating,$29.99,['SpongeBobSquarePantsBattleforBikiniBottomRehydrated'],['Purple Lamp Studios'],['THQ Nordic'],['Jun232020'],['SpongeBob SquarePants'],1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+281,,22202.0,85%,$29.99,['NARUTOSHIPPUDENUltimateNinjaSTORM4'],['CyberConnect2 Co. Ltd.'],['BANDAI NAMCO Entertainment'],['Feb42016'],['FRANCHISE'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,,5955.0,91%,$24.99,['Avorion'],['Boxelware'],['Boxelware'],['Mar92020'],[],1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,,13084.0,91%,$34.99,['TwoPointHospital'],['Two Point Studios'],['SEGA'],['Aug292018'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,,15305.0,77%,$44.99,['TotalWarATTILA'],['CREATIVE ASSEMBLY'],['SEGA'],['Feb172015'],['Total War'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,,181.0,69%,$9.99,['PlanetZooArcticPack'],['Frontier Developments'],[],['Dec172019'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,,13397.0,96%,$19.99,['STARWARSEmpireatWarGoldPack'],['Petroglyph'],"['LucasArts', 'Lucasfilm', 'Disney']",['Feb162006'],['Star Wars'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,,9669.0,93%,$14.99,['RivalsofAether'],['Dan Fornace'],['Dan Fornace'],['Mar282017'],['Rivals of Aether'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,,3349.0,81%,$19.99,['CultistSimulator'],['Weather Factory'],['Weather Factory'],['May312018'],['Secret Histories'],0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,,31483.0,88%,$19.99,['AssassinsCreedIVBlackFlag'],['Ubisoft Montreal'],['Ubisoft'],['Nov192013'],"['""Assassin\'s Creed""']",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,,894.0,78%,$39.99,['ThisLandIsMyLand'],['Game-Labs'],['Game-Labs'],['Nov202019'],[],1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+291,,595.0,73%,$13.99,['DayZLivonia'],['Bohemia Interactive'],['Bohemia Interactive'],['Dec32019'],[],1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,,406.0,98%,$14.99,['DeepRockGalacticSupporterUpgrade'],['Ghost Ship Games'],['Coffee Stain Publishing'],['Feb282018'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,,9722.0,87%,$19.99,['ForTheKing'],['IronOak Games'],['Curve Digital'],['Apr192018'],['Curve Digital'],0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,,40892.0,92%,$4.99,['StickFightTheGame'],['Landfall West'],['Landfall'],['Sep282017'],[],1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+295,$23.99                    ,1177.0,75%,$39.99,['Indivisible'],['Lab Zero Games'],['505 Games'],['Oct82019'],['505 Games Official'],1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,,985.0,79%,$19.99,['StellarisUtopia'],['Paradox Development Studio'],['Paradox Interactive'],['Apr62017'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,$15.99                    ,3730.0,89%,$19.99,['POSTAL4NoRegerts'],['Running With Scissors'],['Running With Scissors'],['Oct142019'],['POSTAL'],1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+298,,21131.0,88%,$4.99,['TownofSalem'],['BlankMediaGames'],['BlankMediaGames'],['Dec152014'],[],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,,114.0,71%,$11.99,['PlanetZooDeluxeUpgradePack'],['Frontier Developments'],['Frontier Developments'],['Nov52019'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,,33407.0,89%,$19.99,['METALGEARSOLIDVTHEPHANTOMPAIN'],['Konami Digital Entertainment'],['Konami Digital Entertainment'],['Sep12015'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,,4799.0,76%,$29.99,['TrainSimWorld2020'],['Dovetail Games'],['Dovetail Games - TSW'],['Jul242018'],['Train Sim World'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,,55088.0,98%,$9.99,['Portal'],['Valve'],['Valve'],['Oct102007'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,,107270.0,96%,$9.99,['Undertale'],['tobyfox'],['tobyfox'],['Sep152015'],[],0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,,460.0,76%,$39.99,['YuGiOhLegacyoftheDuelistLinkEvolution'],['Other Ocean Emeryville'],"['Konami Digital Entertainment', 'Inc.']",['Mar242020'],[],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,,7693.0,93%,$19.99,['StormworksBuildandRescue'],['Sunfire Software'],['Sunfire Software'],['Feb282018'],[],0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+306,,16395.0,93%,$29.99,['BorderlandsGameoftheYear'],['Gearbox Software'],['2K'],[],['Borderlands'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,,6900.0,87%,$8.99,['GolfIt'],['Perfuse Entertainment'],['Perfuse Entertainment'],['Feb172017'],[],0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+308,,23766.0,94%,,['DevilMayCry5'],"['CAPCOM Co.', 'Ltd.']","['CAPCOM Co.', 'Ltd.']",['Mar72019'],['Devil May Cry'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,,0.0,No Rating,,['FrostpunkOnTheEdge'],['11 bit studios'],['11 bit studios'],['Summer2020'],"['Frostpunk', '11 bit studios']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,,1074.0,80%,$19.99,['Volcanoids'],['Volcanoid'],['Volcanoid'],['Jan292019'],[],1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+311,,6103.0,85%,$39.99,['DanganronpaV3KillingHarmony'],"['Spike Chunsoft Co.', 'Ltd.']","['Spike Chunsoft Co.', 'Ltd.']",['Sep252017'],['Danganronpa'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,,2038.0,82%,$24.99,['Arma3Apex'],['Bohemia Interactive'],['Bohemia Interactive'],['Jul112016'],['Arma Franchise'],1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,,2835.0,95%,$9.99,['ShotgunFarmers'],['Megastorm Games'],['Megastorm Games'],['Mar82019'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,,8108.0,90%,$29.99,['FINALFANTASYXX2HDRemaster'],['Square Enix'],['Square Enix'],['May122016'],['FINAL FANTASY'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+315,,54632.0,92%,$29.99,['TheLongDark'],['Hinterland Studio Inc.'],['Hinterland Studio Inc.'],['Aug12017'],[],0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+316,,1254.0,64%,$19.99,['StellarisApocalypse'],['Paradox Development Studio'],['Paradox Interactive'],['Feb222018'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317,,3568.0,91%,$4.99,['AmongUs'],['Innersloth'],['Innersloth'],['Nov162018'],[],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+318,,4109.0,95%,$39.99,['SpyroReignitedTrilogy'],"['Toys for Bob', 'Iron Galaxy']",['Activision'],['Sep32019'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,,22394.0,89%,$19.99,['SPORE'],['Maxis™'],['Electronic Arts'],['Dec192008'],[],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,,2459.0,94%,$19.99,['OneStepFromEden'],['Thomas Moon Kang'],"['Humble Games', 'Maple Whispering Limited']",['Mar262020'],[],1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,,69583.0,95%,$29.99,['BioShockInfinite'],"['Irrational Games', 'Virtual Programming (Linux)']",['2K'],['Mar252013'],['BioShock'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,,981.0,58%,$19.99,['StellarisMegaCorp'],['Paradox Development Studio'],['Paradox Interactive'],['Dec62018'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,,53606.0,67%,$19.99,['GrandTheftAutoIVTheCompleteEdition'],"['Rockstar North', 'Rockstar Toronto']",['Rockstar Games'],['Mar242020'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324,,3617.0,88%,$29.99,['Barotrauma'],"['FakeFish', 'Undertow Games']",['Daedalic Entertainment'],['Jun52019'],['Daedalic Entertainment'],1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+325,,12992.0,88%,$24.99,['MudRunner'],['Saber Interactive'],['Focus Home Interactive'],['Oct302017'],[],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,,244.0,75%,$14.99,['KerbalSpaceProgramBreakingGroundExpansion'],['Squad'],['Private Division'],['May302019'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,,55.0,65%,,['StreetFighterVChampionEditionUpgradeKit'],['Capcom'],['Capcom'],['Feb132020'],['Street Fighter'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,,129.0,89%,$9.99,['DeadsideSupporterPack'],['Bad Pixel'],['Bad Pixel'],['Apr142020'],[],1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,,5374.0,82%,$19.99,['CookingSimulator'],['Big Cheese Studio'],['PlayWay S.A.'],['Jun62019'],['PlayWay S.A.'],0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+330,,1154.0,74%,$23.99,['EndzoneAWorldApart'],['Gentlymad Studios'],"['Assemble Entertainment', 'WhisperGames']",['Apr22020'],[],0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+331,,12064.0,95%,$9.99,['Skullgirls'],['Lab Zero Games'],"['Marvelous', 'Autumn Games']",['Aug222013'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,$4.24                    ,7907.0,91%,$16.99,['Overcooked'],['Ghost Town Games Ltd.'],['Team17 Digital Ltd'],['Aug32016'],['Team17 Digital'],1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+333,,786.0,85%,$15.99,['GrimDawnForgottenGodsExpansion'],['Crate Entertainment'],['Crate Entertainment'],['Mar272019'],['Grim Dawn'],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,,3678.0,91%,$29.99,['Warhammer40000Mechanicus'],['Bulwark Studios'],['Kasedo Games'],['Nov152018'],"['Warhammer', 'Kasedo Games']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,,0.0,No Rating,$39.99,['NewWorld'],['Amazon Games'],['Amazon Games'],['Aug252020'],[],1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,,16405.0,92%,$6.99,['ShellShockLive'],['kChamp Games'],['kChamp Games'],['May222020'],[],1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+337,,9867.0,76%,$39.99,['FarCryNewDawn'],"['Ubisoft Montreal', 'Ubisoft Kiev', 'Ubisoft Shanghai']",['Ubisoft'],['Feb152019'],['Far Cry'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,,2915.0,87%,$49.99,['FINALFANTASYXIITHEZODIACAGE'],['Square Enix'],['Square Enix'],['Feb12018'],['FINAL FANTASY'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+339,,261.0,46%,,['CivilizationVIKhmerandIndonesiaCivilizationScenarioPack'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Oct192017'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,,6146.0,88%,$4.99,['Pacify'],['Shawn Hitchcock'],['SKH Apps'],['Feb222019'],[],1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+341,,16010.0,79%,Free to Play,['TERA'],"['Bluehole', 'Inc.']",['En Masse Entertainment'],['May52015'],[],1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,,14151.0,83%,$49.99,['DRAGONBALLXENOVERSE2'],"['QLOC', 'DIMPS']",['BANDAI NAMCO Entertainment'],['Oct272016'],['FRANCHISE'],1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+343,,4390.0,87%,$19.99,['SessionSkateboardingSimGame'],['crea-ture Studios Inc.'],['crea-ture Studios Inc.'],['Sep172019'],[],0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+344,,483.0,76%,$8.99,['TotalWarWARHAMMERIITheQueenTheCrone'],"['CREATIVE ASSEMBLY', 'Feral Interactive']","['SEGA', 'Feral Interactive']",['May312018'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+345,,420.0,76%,$9.99,['SurvivorPassColdFront'],['PUBG Corporation'],['PUBG Corporation'],['Apr212020'],[],1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,,690.0,88%,$11.99,['DeadbyDaylightStrangerThingsChapter'],['Behaviour Interactive Inc.'],['Behaviour Interactive Inc.'],['Sep172019'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,,3563.0,70%,Play for Free!,['DungeonsDragonsOnline'],"['Standing Stone Games', 'LLC']","['Standing Stone Games', 'LLC']",['Jun252012'],[],1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,,4799.0,92%,$59.99,['DRAGONQUESTXIEchoesofanElusiveAgeDigitalEditionofLight'],['Square Enix'],['Square Enix'],['Sep42018'],['DRAGON QUEST'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,,1153.0,90%,$17.99,['GrimDawnAshesofMalmouthExpansion'],['Crate Entertainment'],[],['Oct112017'],[],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,,5172.0,83%,$14.99,['FaceRig'],['Holotech Studios'],['Holotech Studios'],['Jul72015'],[],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+351,,1175.0,68%,$27.99,['Arma3Contact'],['Bohemia Interactive'],['Bohemia Interactive'],['Jul252019'],['Arma Franchise'],1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,,78.0,88%,$7.99,['DeepRockGalacticDarkFuturePack'],['Ghost Ship Games'],['Coffee Stain Publishing'],['May132020'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,,32653.0,69%,$29.99,['SCUM'],['Gamepires'],['Gamepires'],['Aug292018'],"['Gamepires', 'Croteam']",1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+354,,2713.0,84%,$19.99,['NeverwinterNightsEnhancedEdition'],['Beamdog'],['Beamdog'],['Mar272018'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,,30153.0,82%,$19.99,['BatmanArkhamKnight'],['Rocksteady Studios'],['Warner Bros. Interactive Entertainment'],['Jun232015'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,,24772.0,94%,,['MafiaIIClassic'],['2K Czech'],['2K'],['Mar222011'],['Mafia'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,,9006.0,62%,$59.99,['Gears5'],['The Coalition'],['Xbox Game Studios'],['Sep52019'],['Gears of War'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,,33624.0,93%,$9.99,['StarWarsBattlefront2Classic2005'],['Pandemic Studios'],"['Lucasfilm', 'LucasArts', 'Disney']",['Nov12005'],['Star Wars'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,,17776.0,91%,$19.99,['CallofDutyModernWarfare2'],['Infinity Ward'],['Activision'],['Nov122009'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,,0.0,No Rating,$19.99,['EuropaUniversalisIVEmperor'],['Paradox Development Studio'],['Paradox Interactive'],['Jun92020'],['Europa Universalis'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,,53606.0,67%,,['GrandTheftAutoIVCompleteEdition'],"['Rockstar North', 'Rockstar Toronto']",['Rockstar Games'],[],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,,410.0,80%,$29.99,['TheElderScrollsOnlineElsweyr'],['Zenimax Online Studios'],['Bethesda Softworks'],['May212019'],[],0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,,40078.0,77%,$19.99,['Fridaythe13thTheGame'],['IllFonic'],['Gun Media'],['May262017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+364,,70.0,97%,$7.99,['DeepRockGalacticMegaCorpPack'],['Ghost Ship Games'],['Coffee Stain Publishing'],['May132020'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,,6668.0,89%,$19.99,['BaldursGateEnhancedEdition'],['Beamdog'],['Beamdog'],['Jan162013'],[],0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,,28691.0,84%,$49.99,['MiddleearthShadowofWar'],['Monolith Productions'],['WB Games'],['Oct92017'],[],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,,444.0,86%,$39.99,['SeaofThieves'],['Rare Ltd'],['Xbox Game Studios'],['Jun32020'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,,938.0,68%,$18.99,['TotalWarWARHAMMERRealmofTheWoodElves'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['SEGA', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",['Dec82016'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,,4594.0,84%,$29.99,['Foundation'],['Polymorph Games'],['Polymorph Games'],['Feb12019'],[],0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+370,,42874.0,95%,$14.99,['EntertheGungeon'],['Dodge Roll'],['Devolver Digital'],['Apr52016'],['Gungeon'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,,23947.0,84%,$29.99,['TheyAreBillions'],['Numantian Games'],['Numantian Games'],['Jun182019'],[],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+372,,10466.0,87%,Free To Play,['KARDSTheWWIICardGame'],['1939 Games'],['1939 Games'],['Apr152020'],[],0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+373,,4479.0,91%,$29.99,['3DMark'],['UL'],['UL'],[],[],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+374,,14633.0,79%,Free to Play,['DCUniverseOnline'],['Dimensional Ink Games'],['Daybreak Game Company'],['Nov22011'],[],1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,$22.49                    ,263.0,76%,$24.99,['MovingOut'],"['SMG Studio', 'Devm Games']",['Team17 Digital'],['Apr282020'],['Team17 Digital'],1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+376,,10038.0,44%,Free To Play,['Crucible'],['Relentless Studios'],['Amazon Games'],['May202020'],[],1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,,30717.0,87%,$39.99,['DARKSOULSIIScholaroftheFirstSin'],"['FromSoftware', 'Inc']","['BANDAI NAMCO Entertainment', 'FromSoftware', 'Inc']",['Apr12015'],['BANDAI NAMCO Entertainment'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,,16761.0,92%,$29.99,['RESIDENTEVIL7biohazardBIOHAZARD7residentevil'],"['CAPCOM Co.', 'Ltd.']","['CAPCOM Co.', 'Ltd.']",['Jan232017'],['Resident Evil'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+379,,86630.0,97%,$19.99,['MountBladeWarband'],['TaleWorlds Entertainment'],['TaleWorlds Entertainment'],['Mar312010'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,,24199.0,85%,$24.99,['RisingStorm2Vietnam'],"['Antimatter Games', 'Tripwire Interactive']",['Tripwire Interactive'],['May302017'],['Tripwire Interactive'],1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381,,6597.0,84%,$19.99,['ThiefSimulator'],['Noble Muffins'],"['PlayWay S.A.', 'Console Labs S.A.']",['Nov92018'],['Noble Muffins and Friends'],1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,,3231.0,95%,$12.99,['Warhammer40000DawnofWarGameoftheYearEdition'],['Relic Entertainment'],['SEGA'],['Jan12006'],['Warhammer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,,10041.0,73%,Free to Play,['Freestyle2StreetBasketball'],['JOYCITY'],['JOYCITY'],['Apr12015'],[],1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+384,,65193.0,95%,$9.99,['CounterStrikeSource'],['Valve'],['Valve'],['Nov12004'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,,47693.0,96%,$14.99,['CastleCrashers'],['The Behemoth'],['The Behemoth'],['Sep262012'],[],1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+386,,3523.0,89%,$29.99,['AutomationTheCarCompanyTycoonGame'],['Camshaft Software'],['Camshaft Software'],['Mar122015'],[],0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+387,,251.0,52%,$4.99,['FrostpunkTheRifts'],['11 bit studios'],['11 bit studios'],['Aug272019'],"['Frostpunk', '11 bit studios']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,,233.0,82%,$19.99,['JurassicWorldEvolutionReturnToJurassicPark'],['Frontier Developments'],[],['Dec102019'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,,308.0,87%,$11.99,['AmericanTruckSimulatorUtah'],['SCS Software'],['SCS Software'],['Nov72019'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+390,,10017.0,74%,Free To Play,['ShadowverseCCG'],"['Cygames', 'Inc.']","['Cygames', 'Inc.', 'Cygames Korea Inc.']",['Oct272016'],[],0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,,783.0,72%,$9.99,['TotalWarTHREEKINGDOMSAWorldBetrayed'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Mar192020'],['Total War'],1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,,6614.0,83%,$39.99,['TransportFever2'],['Urban Games'],['Good Shepherd Entertainment'],['Dec112019'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,,3738.0,79%,$19.99,['AgeofEmpiresDefinitiveEdition'],"['Forgotten Empires', 'Tantalus']",['Xbox Game Studios'],['Aug192019'],['Age of Empires'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,,22744.0,98%,$29.99,['AHatinTime'],['Gears for Breakfast'],['Gears for Breakfast'],['Oct52017'],[],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,,3822.0,91%,$59.99,['DAEMONXMACHINA'],['Marvelous Inc.'],"['XSEED Games', 'Marvelous USA', 'Inc.', 'Marvelous']",['Feb132020'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,,9766.0,96%,$19.99,['DanganronpaTriggerHappyHavoc'],"['Spike Chunsoft Co.', 'Ltd.', 'Abstraction Games']","['Spike Chunsoft Co.', 'Ltd.']",['Feb182016'],['Danganronpa'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,,14314.0,92%,$11.99,['FINALFANTASYVII'],['Square Enix'],['Square Enix'],['Jul42013'],['FINAL FANTASY'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,,1371.0,92%,$14.99,['ThemsFightinHerds'],"['Mane6', 'Inc.']",['Humble Games'],['Apr302020'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,,12371.0,51%,$39.99,['ImperatorRome'],['Paradox Development Studio'],['Paradox Interactive'],['Apr252019'],['Imperator'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,,1159.0,80%,$24.99,['Observation'],['No Code'],['Devolver Digital'],['May212020'],[],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,,13443.0,93%,$19.99,['Forager'],['HopFrog'],['Humble Games'],['Apr182019'],[],1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,,36553.0,77%,$49.99,['TomClancysGhostReconWildlands'],"['Ubisoft Paris', 'Ubisoft Annecy', 'Ubisoft Bucharest', 'Ubisoft Montpellier', 'Ubisoft Milan', 'Reflections', 'Ubisoft Belgrade']",['Ubisoft'],['Mar62017'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,,50417.0,55%,$39.99,['WolcenLordsofMayhem'],['WOLCEN Studio'],['WOLCEN Studio'],['Feb132020'],[],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,,3638.0,57%,Free to Play,['VEGAConflict'],['KIXEYE'],['KIXEYE'],['Dec142015'],[],0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,,15225.0,58%,$59.99,['CallofDutyWWII'],"['Sledgehammer Games', 'Raven Software']",['Activision'],['Nov22017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,,19936.0,95%,$9.99,['Left4Dead'],['Valve'],['Valve'],['Nov172008'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,,1175.0,56%,$19.99,['ExpansionHeartsofIronIVMantheGuns'],['Paradox Development Studio'],['Paradox Interactive'],['Feb282019'],['Hearts of Iron IV'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,,11331.0,78%,$14.99,['Stoneshard'],['Ink Stains Games'],['HypeTrain Digital'],['Feb62020'],['HypeTrain Digital'],0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+409,,3495.0,77%,$14.99,['FeedandGrowFish'],['Old B1ood'],['Greens s.r.o.'],['Jan82016'],[],1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+410,,7313.0,65%,$24.99,['GenerationZero'],['Systemic Reaction'],['Systemic Reaction'],['Mar262019'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,,2256.0,88%,Free To Play,['BlushBlush'],['Sad Panda Studios'],['Sad Panda Studios'],['Apr42019'],[],0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+412,,7197.0,63%,$39.99,['TotalWarSagaTHRONESOFBRITANNIA'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['May22018'],['Total War'],1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,,2734.0,82%,$29.99,['WarofRights'],['Campfire Games'],['Campfire Games'],['Dec32018'],[],1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+414,,61948.0,96%,$9.99,['DontStarve'],['Klei Entertainment'],['Klei Entertainment'],[],['Klei Entertainment'],0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,,7993.0,96%,$19.99,['StreetsofRogue'],['Matt Dabrowski'],['tinyBuild'],['Jul122019'],['tinyBuild'],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,,4249.0,80%,$59.99,['SOULCALIBURVI'],"['BANDAI NAMCO Studios', 'Dimps Corporation']",['BANDAI NAMCO Entertainment'],['Oct182018'],['FRANCHISE'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,,11635.0,95%,$14.99,['UltimateChickenHorse'],['Clever Endeavour Games'],['Clever Endeavour Games'],['Mar42016'],[],1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+418,,350.0,76%,$9.99,['StellarisAncientRelicsStoryPack'],['Paradox Development Studio'],['Paradox Interactive'],['Jun42019'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+419,$12.05                    ,1270.0,95%,$17.99,['MonsterSanctuary'],['Moi Rai Games'],['Team17 Digital Ltd'],['Aug282019'],['Team17 Digital'],0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+420,,4680.0,88%,$19.99,['SecretNeighbor'],"['Hologryph', 'Dynamic Pixels']",['tinyBuild'],['Oct242019'],"['tinyBuild', 'Hello Neighbor']",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,,3067.0,86%,$29.99,['IratusLordoftheDead'],['Unfrozen'],['Daedalic Entertainment'],['Apr232020'],['Daedalic Entertainment'],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,,38240.0,90%,$14.99,['GrandTheftAutoSanAndreas'],['Rockstar Games'],['Rockstar Games'],['Jun62005'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+423,,38240.0,90%,$14.99,['GrandTheftAutoSanAndreas'],['Rockstar Games'],['Rockstar Games'],['Jun62005'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+424,$7.49                    ,13206.0,78%,$29.99,['Steep'],"['Ubisoft Annecy', 'Ubisoft Montpellier', 'Ubisoft Kiev']",['Ubisoft'],['Dec22016'],[],1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+425,,476.0,96%,$11.99,['AmericanTruckSimulatorWashington'],['SCS Software'],['SCS Software'],['Jun112019'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,,9986.0,86%,$29.99,['PillarsofEternity'],['Obsidian Entertainment'],['Paradox Interactive'],['Mar262015'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,,688.0,80%,$9.99,['TotalWarWARHAMMERNorsca'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['SEGA', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",['Aug102017'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,,826.0,98%,$19.99,['BugFablesTheEverlastingSapling'],['Moonsprout Games'],['DANGEN Entertainment'],['Nov212019'],[],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,,6165.0,81%,$34.99,['FableAnniversary'],['Lionhead Studios'],['Xbox Game Studios'],['Sep122014'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,,12087.0,94%,$24.99,['TotalWarMEDIEVALIIDefinitiveEdition'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Nov152006'],['Total War'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+431,,10200.0,83%,$39.99,['EndlessSpace2DigitalDeluxeEdition'],['AMPLITUDE Studios'],['SEGA'],['May182017'],['AmplitudeStudios'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+432,,24.0,91%,$9.99,['ConanExilesArchitectsofArgosPack'],['Funcom'],['Funcom'],['May72020'],['Funcom'],1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,,512.0,61%,$14.99,['KerbalSpaceProgramMakingHistoryExpansion'],['Squad'],['Private Division'],['Mar132018'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,,16254.0,81%,$19.99,['EmpyrionGalacticSurvival'],['Eleon Game Studios'],['Eleon Game Studios'],['Aug52015'],[],0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+435,,27258.0,62%,Free To Play,['KurtzPel'],['KOG'],['KOG'],['Apr302019'],[],1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+436,$19.99                    ,5073.0,88%,$24.99,['WorkersResourcesSovietRepublic'],['3Division'],['3Division'],['Mar152019'],[],0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+437,,6062.0,86%,$9.99,['SonicAdventure2'],['SEGA'],['SEGA'],['Nov192012'],['Sonic the Hedgehog'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+438,$9.74                    ,2569.0,88%,$12.99,['WeWereHereTogether'],['Total Mayhem Games'],['Total Mayhem Games'],['Oct102019'],['We Were Here Series'],0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+439,,8255.0,89%,$24.99,['TerraTech'],['Payload Studios'],['Payload Studios'],['Aug102018'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,,119256.0,67%,Free to Play,['HeroesGenerals'],['RETO MOTO'],['RETO MOTO'],['Oct182016'],[],1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,,3000.0,92%,$16.99,['Unrailed'],['Indoor Astronaut'],"['Daedalic Entertainment', 'bilibili(China)']",['Sep92019'],['Daedalic Entertainment'],1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+442,,29999.0,94%,$14.99,['PlagueIncEvolved'],['Ndemic Creations'],['Ndemic Creations'],['Feb182016'],['Ndemic Creations Official'],0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+443,,785.0,96%,$59.99,['TheLegendofHeroesTrailsofColdSteelIII'],"['Nihon Falcom', 'Engine Software BV', 'PH3 GmbH']","['NIS America', 'Inc.']",['Mar232020'],"['The Legend of Heroes', 'The Legend of Heroes: Trails of Cold Steel']",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,,1194.0,58%,$18.99,['TotalWarWARHAMMERCalloftheBeastmen'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['SEGA', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",['Jul282016'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+445,,9773.0,78%,$39.99,['SwordArtOnlineFatalBullet'],['DIMPS'],['BANDAI NAMCO Entertainment'],['Feb232018'],['BANDAI NAMCO Entertainment'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+446,,2961.0,79%,$6.99,['TalismanDigitalEdition'],['Nomad Games'],['Nomad Games'],['Feb252014'],['Warhammer'],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+447,$1.99                    ,13402.0,84%,$9.99,['Blackwake'],['Mastfire Studios Pty Ltd'],['Mastfire Studios Pty Ltd'],['Feb192020'],[],1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+448,,2648.0,93%,Free To Play,['IdleBigDevil'],"['HONG KONG SPARK SOFTWARE TECHNOLOGY CO.', 'LIMITED']","['HONG KONG SPARK SOFTWARE TECHNOLOGY CO.', 'LIMITED']",['May142020'],"['Idle Big Devil', 'IBD']",0,1,0,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+449,,413.0,85%,$19.99,['QuantumLeague'],['Nimble Giant Entertainment'],['Nimble Giant Entertainment'],['May262020'],[],1,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+450,,154.0,91%,$19.99,['BrawlhallaAllLegendsCurrentandFuture'],['Blue Mammoth Games'],['Ubisoft'],['Nov32015'],[],1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+451,,5120.0,97%,$29.99,['PhoenixWrightAceAttorneyTrilogy逆転裁判123成歩堂セレクション'],"['CAPCOM Co.', 'Ltd.']","['CAPCOM Co.', 'Ltd.']",['Apr92019'],[],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,,46925.0,92%,Free To Play,['MinionMasters'],['BetaDwarf'],['BetaDwarf'],['May242019'],[],1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,,1699.0,98%,$14.99,['WORLDOFHORROR'],['panstasz'],['Ysbryd Games'],['Feb202020'],[],0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+454,,4937.0,92%,$11.99,['MonsterProm'],['Beautiful Glitch'],['Those Awesome Guys'],['Apr272018'],['Monster Prom'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,,15244.0,95%,$39.99,['BloodstainedRitualoftheNight'],['ArtPlay'],['505 Games'],['Jun182019'],['505 Games Official'],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,,674.0,83%,$12.99,['CitiesSkylinesMassTransit'],['Colossal Order Ltd.'],['Paradox Interactive'],['May182017'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,,7989.0,96%,$19.99,['Danganronpa2GoodbyeDespair'],"['Spike Chunsoft Co.', 'Ltd.', 'Abstraction Games']","['Spike Chunsoft Co.', 'Ltd.']",['Apr182016'],['Danganronpa'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,,348.0,94%,$79.99,['DCSFA18CHornet'],['Eagle Dynamics SA'],['Eagle Dynamics SA'],['Jun12018'],[],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,,14068.0,88%,$29.99,['DragonsDogmaDarkArisen'],['Capcom'],['Capcom'],['Jan152016'],[],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+460,,7095.0,95%,$19.99,['LEGOStarWarsTheCompleteSaga'],"['""Traveller\'s Tales""']","['LucasArts', 'Lucasfilm', 'Disney']",['Nov122009'],['Star Wars'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+461,,5592.0,62%,$39.99,['NavalAction'],['Game-Labs'],['Game-Labs'],['Jun132019'],[],1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,,19223.0,92%,$9.99,['BrightMemory'],['FYQD-Studio'],"['FYQD-Studio', 'PLAYISM']",['Mar252020'],['PLAYISM'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,,5920.0,69%,$49.99,['NARUTOTOBORUTOSHINOBISTRIKER'],['Soleil Ltd.'],['BANDAI NAMCO Entertainment'],['Aug312018'],['FRANCHISE'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,,3230.0,91%,$79.99,['RPGMakerMV'],"['KADOKAWA', 'Yoji Ojima']",['Degica'],['Oct232015'],['Maker'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+465,,21406.0,82%,$39.99,['BorderlandsThePreSequel'],"['2K Australia', 'Gearbox Software', 'Aspyr (Linux)']","['2K', 'Aspyr (Linux)']",['Oct142014'],['Borderlands'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+466,,1190.0,68%,$9.99,['DarkestDungeonTheCrimsonCourt'],['Red Hook Studios'],['Red Hook Studios'],['Jun192017'],[],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+467,,3468.0,80%,$29.99,['TheUniversim'],['Crytivo'],['Crytivo'],['Aug12020'],['Crytivo'],0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+468,$3.99                    ,2199.0,84%,$19.99,['WormsReloaded'],['Team17 Digital Ltd'],['Team17 Digital Ltd'],['Aug262010'],['Team17 Digital'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+469,,18866.0,84%,$39.99,['Dishonored2'],['Arkane Studios'],['Bethesda Softworks'],['Nov112016'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,,577.0,85%,$14.99,['CitiesSkylinesAfterDark'],['Colossal Order Ltd.'],['Paradox Interactive'],['Sep242015'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+471,,3476.0,85%,$59.99,['SDGUNDAMGGENERATIONCROSSRAYS'],"['TOM CREATE', '株式会社トムクリエイト']","['BANDAI NAMCO Entertainment', '株式会社バンダイナムコエンターテインメント']",['Nov272019'],['BANDAI NAMCO Entertainment'],0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+472,,2116.0,85%,,['PinballFX3'],['Zen Studios'],['Zen Studios'],['Sep262017'],['Zen Studios'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+473,,2116.0,85%,,['PinballFX3'],['Zen Studios'],['Zen Studios'],['Sep262017'],['Zen Studios'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,,946.0,90%,$19.99,['HYPERCHARGEUnboxed'],['Digital Cybercherries'],['Digital Cybercherries'],['Apr272020'],[],1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+475,,1280.0,77%,$19.99,['ExpansionHeartsofIronIVWakingtheTiger'],['Paradox Development Studio'],['Paradox Interactive'],['Mar82018'],['Hearts of Iron IV'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,,2435.0,77%,$39.99,['SteelDivision2'],['Eugen Systems'],['Eugen Systems'],['Jun202019'],['Steel Division'],1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,,3836.0,75%,$15.99,['BIGFOOT'],['CyberLight Game Studio'],['CyberLight Game Studio'],['Sep302020'],[],0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+478,,2903.0,94%,$59.99,['EARTHDEFENSEFORCE5'],['SANDLOT'],['D3 PUBLISHER'],['Jul112019'],['EARTH DEFENSE FORCE SERIES'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,,823.0,86%,$24.99,['112Operator'],['Jutsu Games'],['Games Operators'],['Apr232020'],['Games Operators'],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+480,,21065.0,81%,$7.99,['GettingOverItwithBennettFoddy'],['Bennett Foddy'],['Bennett Foddy'],['Dec62017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+481,,2144.0,59%,$39.99,['CallofDutyModernWarfareRemastered'],"['Raven Software', 'Beenox']",['Activision'],['Jul272017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+482,,15990.0,89%,$9.99,['STARWARSKnightsoftheOldRepublic'],"['BioWare', 'Aspyr (Mac)']","['LucasArts', 'Aspyr (Mac)', 'Disney', 'Lucasfilm']",['Nov192003'],['Star Wars'],0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,$23.99                    ,447.0,87%,$29.99,['SONGOFHORRORCOMPLETEEDITION'],['Protocol Games'],['🚀 Raiser Games'],['Oct312019'],[],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,,466.0,84%,$8.99,['TotalWarWARHAMMERTheKingandtheWarlord'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['SEGA', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",['Oct202016'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,,898.0,91%,$24.99,['Ostriv'],['yevhen8'],['yevhen8'],['Mar192020'],[],0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+486,,1178.0,95%,$29.99,['SidMeiersCivilizationVBraveNewWorld'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Jul82013'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,,4192.0,75%,$19.99,['BloodBowl2'],['Cyanide Studios'],['Focus Home Interactive'],['Sep222015'],['Warhammer'],0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+488,,3295.0,86%,$11.99,['HeroesofHammerwatch'],['Crackshell'],"['Crackshell', 'Surefire.Games']",['Mar12018'],['Hammerwatch'],1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,,640.0,71%,$9.99,['StellarisSyntheticDawnStoryPack'],['Paradox Development Studio'],['Paradox Interactive'],['Sep212017'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+490,,1760.0,94%,$49.99,['DigimonStoryCyberSleuthCompleteEdition'],"['h.a.n.d.', 'Inc.']",['BANDAI NAMCO Entertainment Inc.'],['Oct172019'],['BANDAI NAMCO Entertainment'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,,1553.0,89%,$9.99,['TickettoRide'],['Days of Wonder'],"['Days of Wonder', 'Asmodee Digital']",['May242012'],['Asmodee Digital'],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+492,,3702.0,69%,Free to Play,['MARVELPuzzleQuest'],['Demiurge Studios'],['D3 Go!'],['Dec52013'],[],0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+493,,2499.0,89%,$59.99,['ONEPIECEPIRATEWARRIORS4'],['Koei Tecmo'],['BANDAI NAMCO Entertainment'],['Mar262020'],['BANDAI NAMCO Entertainment'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,,448.0,91%,$9.99,['Drawful2'],"['Jackbox Games', 'Inc.']","['Jackbox Games', 'Inc.']",['Jun202016'],[],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+495,,7047.0,90%,$19.99,['VictoriaII'],['Paradox Development Studio'],['Paradox Interactive'],['Aug302010'],[],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,,3605.0,96%,Free To Play,['NGUIDLE'],['4G'],['4G'],['Oct12019'],[],0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+497,,4309.0,63%,,['TheBindingofIsaacAfterbirth'],"['Nicalis', 'Inc.', 'Edmund McMillen']","['Nicalis', 'Inc.']",['Jan32017'],['Binding of Isaac'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,,3541.0,79%,$29.99,['Eco'],['Strange Loop Games'],['Strange Loop Games'],['Feb62018'],[],0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+499,,8059.0,92%,$14.99,['DungeonDefenders'],['Trendy Entertainment'],['Trendy Entertainment'],['Oct182011'],['Dungeon Defenders'],1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,,5251.0,65%,$59.99,['JUMPFORCE'],"['Spike Chunsoft Co.', 'Ltd.']",['BANDAI NAMCO Entertainment'],['Feb142019'],['BANDAI NAMCO Entertainment'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,,12192.0,79%,Free to Play,['SoulWorkerAnimeActionMMO'],"['Lion Games Co.', 'Ltd.']",['Gameforge 4D GmbH'],['Feb262018'],[],1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,,758.0,58%,Free To Play,['GameofThronesWinterisComing'],['YOUZU (SINGAPORE) PTE. LTD.'],['YOUZU (SINGAPORE) PTE. LTD.'],['Nov142019'],[],0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,$14.99                    ,431.0,72%,$29.99,['GenesisAlphaOneDeluxeEdition'],['Radiation Blue'],['Team17 Digital Ltd'],['Feb252020'],['Team17 Digital'],1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,,11574.0,84%,$29.99,['EndlessLegendEmperorEdition'],['AMPLITUDE Studios'],['SEGA'],['Sep182014'],['AmplitudeStudios'],0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,,671.0,95%,$11.99,['AmericanTruckSimulatorOregon'],['SCS Software'],['SCS Software'],['Oct42018'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,,2015.0,85%,$31.99,['rFactor2'],['Studio 397'],['Studio 397'],['Mar282013'],[],0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+507,,6559.0,84%,$39.99,['CallofDutyModernWarfare3'],"['Infinity Ward', 'Sledgehammer Games']",['Activision'],['Nov82011'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+508,,15620.0,91%,$19.99,['Yakuza0'],['SEGA'],['SEGA'],['Aug12018'],['Yakuza'],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,,5121.0,80%,$14.99,['Exanima'],['Bare Mettle Entertainment'],['Bare Mettle Entertainment'],['Apr292015'],[],1,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+510,$4.99                    ,17504.0,87%,$9.99,['Spintires'],['Oovee® Games'],['Oovee® Games'],['Jun122014'],[],0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+511,,4048.0,46%,Free To Play,['CatanUniverse'],['Exozet'],['United Soft Media'],['Apr252017'],[],0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+512,,1441.0,90%,$17.99,['EuroTruckSimulator2RoadtotheBlackSea'],['SCS Software'],['SCS Software'],['Dec52019'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,,8816.0,90%,$59.99,['F12019'],['Codemasters'],['Codemasters'],['Jun272019'],"['Codemasters', 'Formula One']",0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+514,,19370.0,97%,$19.99,['Celeste'],['Matt Makes Games Inc.'],['Matt Makes Games Inc.'],['Jan252018'],[],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+515,,21533.0,96%,$14.99,['Ravenfield'],['SteelRaven7'],['SteelRaven7'],['May182017'],[],1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+516,,19342.0,71%,$29.99,['DeusExMankindDivided'],"['Eidos Montreal', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['Square Enix', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",['Aug232016'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+517,$9.88                    ,0.0,No Rating,$26.98,['MoonlighterCompleteEdition'],['Digital Sun'],['11 bit studios'],[],"['11 bit studios', 'Moonlighter']",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+518,,5892.0,68%,Free To Play,['DigimonMastersOnline'],"['Move Games Co.', 'Ltd.']",['MOVE ON USA CO.'],['Nov32016'],[],1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+519,,5017.0,72%,Free to Play,['GovernorofPoker3'],"['Azerion', 'YoudaGames']","['Azerion', 'Youda Games Holding B.V.']",['Feb192016'],[],0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+520,,72166.0,97%,$9.99,['HalfLife2'],['Valve'],['Valve'],['Nov162004'],['Half-Life'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+521,,0.0,No Rating,$120.87,['SidMeiersCivilizationVIPlatinumEdition'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",[],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,,12801.0,89%,$39.99,['DivinityOriginalSinEnhancedEdition'],['Larian Studios'],['Larian Studios'],['Oct272015'],[],0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,,10384.0,91%,$29.99,['DragonAgeOriginsUltimateEdition'],['BioWare'],['Electronic Arts'],['Oct262010'],['Dragon Age'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+524,,11369.0,83%,$19.99,['GraveyardKeeper'],['Lazy Bear Games'],['tinyBuild'],['Aug152018'],['tinyBuild'],0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+525,,2873.0,95%,$29.99,['YakuzaKiwami2'],['SEGA'],['SEGA'],['May92019'],['Yakuza'],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+526,,4010.0,77%,$12.99,['PrimalCarnageExtinction'],"['Circle Five Studios', 'Pub Games']",['Circle Five Publishing'],['Apr32015'],['Primal Carnage'],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,$9.09                    ,760.0,91%,$12.99,['DeathandTaxes'],['Placeholder Gameworks'],['Placeholder Gameworks'],['Feb202020'],[],0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+528,,9714.0,91%,$14.99,['BrickRigs'],['Lukas Rustemeyer'],['Lukas Rustemeyer'],['Nov72016'],[],0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+529,,10752.0,88%,$24.99,['TotalWarEMPIREDefinitiveEdition'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Mar42009'],['Total War'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+530,,4148.0,86%,$19.99,['KingdomTwoCrowns'],"['Stumpy🐙Squid', 'Fury Studios', 'Coatsink']",['Raw Fury'],['Dec112018'],"['Kingdom', 'Raw Fury']",0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,,6231.0,93%,$10.99,['TheBindingofIsaacAfterbirth'],"['Nicalis', 'Inc.', 'Edmund McMillen']",[],['Oct302015'],['Binding of Isaac'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+532,,1392.0,88%,$19.99,['ScytheDigitalEdition'],['The Knights of Unity'],['Asmodee Digital'],['Sep52018'],['Asmodee Digital'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+533,,3954.0,76%,Free To Play,['KritikaREBOOT'],"['ALLM Co.', 'Ltd.']","['ALLM Co.', 'Ltd.']",['Nov112019'],[],1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+534,,6327.0,76%,$29.99,['UBOAT'],['Deep Water Studio'],['PlayWay S.A.'],['Apr302019'],['PLW Series'],1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+535,,28881.0,94%,$29.99,['XCOMEnemyUnknown'],"['Firaxis Games', 'Feral Interactive (Linux)']","['2K', 'Feral Interactive (Linux)']",['Oct82012'],['XCOM'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,$16.99                    ,133.0,91%,$19.99,['RuinsSeeker'],['Nupuryu no sato'],['Kagura Games'],['May282020'],['Kagura Games'],0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+537,,4726.0,90%,$29.99,['Warhammer40000DawnofWarIIRetribution'],"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']","['SEGA', 'Feral Interactive (Mac/Linux)']",['Feb282011'],['Warhammer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+538,,83.0,79%,$14.99,['MonsterHunterWorldIceborneDeluxeKit'],"['CAPCOM Co.', 'Ltd.']","['CAPCOM Co.', 'Ltd.']",['Jan92020'],['Monster Hunter'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+539,,17964.0,98%,Free,['Helltaker'],['vanripper'],['vanripper'],['May112020'],[],0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+540,,572.0,83%,$29.99,['NASCARHeat4'],['Monster Games'],['704 Games Company'],['Sep132019'],['NASCAR Heat Franchise'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+541,,1088.0,72%,$49.99,['TheGolfClub2019featuringPGATOUR'],['HB Studios Multimedia Ltd.'],['2K'],['Aug282018'],[],0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+542,,7273.0,93%,$12.99,['VisceraCleanupDetail'],['RuneStorm'],['RuneStorm'],['Oct232015'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+543,,2573.0,76%,$29.99,['SniperGhostWarriorContracts'],['CI Games'],['CI Games'],['Nov222019'],['Sniper Ghost Warrior'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+544,,57386.0,69%,Free To Play,['Warface'],['MY.GAMES'],['MY.GAMES'],['Jul12014'],[],1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,,7622.0,96%,$19.99,['ReturnoftheObraDinn'],['Lucas Pope'],['3909'],['Oct182018'],[],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+546,,9975.0,94%,$14.99,['TheElderScrollsIIIMorrowindGameoftheYearEdition'],['Bethesda Game Studios'],['Bethesda Softworks'],['Apr292002'],['The Elder Scrolls'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+547,,50.0,96%,$19.99,['TheHouseofDaVinci2'],['Blue Brain Games'],['Blue Brain Games'],['May282020'],[],0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+548,,30480.0,96%,$9.99,['PapersPlease'],['Lucas Pope'],['3909'],['Aug82013'],[],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+549,,354.0,99%,$9.99,['HelltakerArtbookPancakeRecipe'],['vanripper'],['vanripper'],['May112020'],[],0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+550,,2644.0,92%,$34.99,['Pathologic2'],['Ice-Pick Lodge'],['tinyBuild'],['May232019'],"['tinyBuild', 'Pathologic']",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+551,,21306.0,89%,$14.99,['ProjectZomboid'],['The Indie Stone'],['The Indie Stone'],['Nov82013'],[],0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+552,,3342.0,67%,Free To Play,['DungeonFighterOnline'],['Neople'],['Neople'],['Aug92016'],[],1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+553,,12873.0,82%,$19.99,['PortalKnights'],['Keen Games'],['505 Games'],['May182017'],['505 Games Official'],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,,77.0,88%,$7.99,['CallofDutyBlackOpsIIIDerEisendracheZombiesMap'],"['Treyarch', 'Aspyr (Mac)']","['Activision', 'Aspyr (Mac)']",['May12018'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+555,,151.0,73%,$12.99,['CitiesSkylinesCampus'],['Colossal Order Ltd.'],['Paradox Interactive'],['May212019'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+556,,6122.0,97%,$19.99,['JustShapesBeats'],['Berzerk Studio'],['Berzerk Studio'],['May312018'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+557,,1309.0,31%,$19.99,['WarhammerVermintide2WindsofMagic'],['Fatshark'],['Fatshark'],['Aug132019'],"['Warhammer', 'Fatshark']",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+558,,1309.0,31%,$19.99,['WarhammerVermintide2WindsofMagic'],['Fatshark'],['Fatshark'],['Aug132019'],"['Warhammer', 'Fatshark']",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+559,,338.0,80%,$12.99,['CitiesSkylinesGreenCities'],['Colossal Order Ltd.'],['Paradox Interactive'],['Oct192017'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+560,,1756.0,89%,$29.99,['FireProWrestlingWorld'],"['Spike Chunsoft Co.', 'Ltd.']","['Spike Chunsoft Co.', 'Ltd.']",['Dec182017'],[],0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+561,,20577.0,78%,$19.99,['Fallout3GameoftheYearEdition'],['Bethesda Game Studios'],['Bethesda Softworks'],['Oct132009'],['Fallout'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+562,,7722.0,86%,$19.99,['HoldfastNationsAtWar'],['Anvil Game Studios'],['Anvil Game Studios'],['Mar52020'],[],1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+563,,450.0,87%,$9.99,['HuntShowdownLegendsoftheBayou'],['Crytek'],['Crytek'],['Aug272019'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+564,,1705.0,96%,$9.99,['STARWARSBattlefrontClassic2004'],['Pandemic Studios'],"['Lucasfilm', 'LucasArts', 'Disney']",['Sep212004'],['Star Wars'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+565,,34892.0,96%,$9.99,['HalfLife'],['Valve'],['Valve'],['Nov81998'],['Half-Life'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+566,,3981.0,84%,$59.99,['OCTOPATHTRAVELER'],"['Square Enix', 'ACQUIRE Corp.']",['Square Enix'],['Jun72019'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,,0.0,No Rating,$49.99,['Destiny2UpgradeEdition'],['Bungie'],['Bungie'],['Dec102019'],['Destiny'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+568,,917.0,82%,$19.99,['NimbatusTheSpaceDroneConstructor'],['Stray Fawn Studio'],"['Stray Fawn Studio', 'WhisperGames']",['May142020'],['Stray Fawn Studio'],1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+569,,7100.0,89%,$24.99,['TotalWarNAPOLEONDefinitiveEdition'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)']","['SEGA', 'Feral Interactive (Mac)']",['Feb252010'],['Total War'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+570,,2909.0,99%,$19.99,['Aseprite'],['David Capello'],['Igara Studio'],['Feb222016'],[],0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+571,,505.0,92%,$9.99,['Quiplash'],"['Jackbox Games', 'Inc.']","['Jackbox Games', 'Inc.']",['Jun302015'],[],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+572,$7.49                    ,5431.0,80%,$29.99,['AgeofWondersIII'],['Triumph Studios'],['Paradox Interactive'],['Mar312014'],['Age of Wonders'],0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+573,,16917.0,75%,Free to Play,['DungeonDefendersII'],['Trendy Entertainment'],['Trendy Entertainment'],['Jun202017'],['Dungeon Defenders'],1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,,577.0,94%,$19.99,['ExpansionCrusaderKingsIIHolyFury'],['Paradox Development Studio'],['Paradox Interactive'],['Nov132018'],['Crusader Kings'],0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+575,,22053.0,92%,$14.99,['MySummerCar'],['Amistech Games'],['Amistech Games'],['Oct242016'],[],0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+576,,11930.0,84%,$7.99,['LifeisStrange2'],"['DONTNOD Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Square Enix', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Sep262018'],['Life is Strange'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+577,,25488.0,94%,$19.99,['TorchlightII'],['Runic Games'],['Runic Games'],['Sep202012'],[],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+578,,2198.0,86%,$24.99,['Visage'],['SadSquare Studio'],['SadSquare Studio'],['Oct22018'],['Visage'],1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+579,,305.0,79%,$6.99,['DeadbyDaylightChainsofHateChapter'],['Behaviour Digital Inc.'],['Behaviour Digital Inc.'],['Mar102020'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,,11939.0,91%,$9.99,['STARWARSKnightsoftheOldRepublicIITheSithLords'],"['Obsidian Entertainment', 'Aspyr (Mac', 'Linux', '& Windows Update)']","['LucasArts', 'Disney', 'Lucasfilm', 'Aspyr (Mac', 'Linux)']",['Feb82005'],['Star Wars'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+581,,36439.0,95%,$9.99,['SaintsRowTheThird'],['Volition'],['Deep Silver'],['Nov142011'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+582,,5171.0,83%,$19.99,['FlashingLightsPoliceFirefightingEmergencyServicesSimulator'],['Nils Jakrins'],['Excalibur Games'],['Jun72018'],['Excalibur Games'],0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+583,,5171.0,83%,$19.99,['FlashingLightsPoliceFirefightingEmergencyServicesSimulator'],['Nils Jakrins'],['Excalibur Games'],['Jun72018'],['Excalibur Games'],0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+584,,7625.0,74%,$49.99,['Vampyr'],['DONTNOD Entertainment'],['Focus Home Interactive'],['Jun42018'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+585,,4657.0,72%,$59.99,['WeHappyFew'],['Compulsion Games'],['Gearbox Publishing'],['Aug102018'],[],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,,4144.0,88%,$19.99,['BaldursGateIIEnhancedEdition'],['Beamdog'],['Beamdog'],['Nov152013'],[],0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+587,,4082.0,81%,$49.99,['RailwayEmpire'],['Gaming Minds Studios'],['Kalypso Media'],['Jan262018'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+588,,1388.0,75%,$19.99,['AxisAllies1942Online'],['Beamdog'],['Beamdog'],['Jul312019'],['Beamdog'],0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+589,,3232.0,82%,$59.99,['GODEATER3'],['BANDAI NAMCO Studios Inc.'],['BANDAI NAMCO Entertainment'],['Feb72019'],['BANDAI NAMCO Entertainment'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+590,,2174.0,94%,$59.99,['DRAGONQUESTBUILDERS2'],"['Square Enix', 'KOEI TECMO GAMES CO.', 'LTD.']",['Square Enix'],['Dec102019'],['DRAGON QUEST'],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+591,,1739.0,88%,$24.99,['LibraryOfRuina'],['ProjectMoon'],['ProjectMoon'],['May152020'],"['ProjectMoon', 'Ruina']",0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+592,,17670.0,67%,Free,['eFootballPES2020'],['Konami Digital Entertainment'],['Konami Digital Entertainment'],['Sep102019'],['Pro Evolution Soccer'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+593,,20391.0,80%,,['HITMAN'],"['IO Interactive A/S', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['IO Interactive A/S', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",['Mar112016'],['Hitman'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+594,,29979.0,44%,$29.99,['ATLAS'],"['Grapeshot Games', 'Instinct Games']",['Grapeshot Games'],['Dec222018'],[],1,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+595,,47402.0,89%,$19.99,['TheWitcher2AssassinsofKingsEnhancedEdition'],['CD PROJEKT RED'],"['CD PROJEKT RED', '1C-SoftClub']",['May172011'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+596,,75.0,90%,$6.99,['ProjectWinterBlackout'],['Other Ocean Interactive'],['Other Ocean Group'],['Oct312019'],[],1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+597,,131.0,83%,$29.99,['FINALFANTASYXIUltimateCollectionSeekersEdition'],['Square Enix'],['Square Enix'],['Apr192013'],[],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+598,,990.0,78%,$39.99,['PanzerCorps2'],['Flashback Games'],['Slitherine Ltd.'],['Mar192020'],[],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+599,,36953.0,81%,$49.99,['WatchDogs2'],['Ubisoft'],['Ubisoft'],['Nov282016'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+600,,273.0,91%,$29.99,['SidMeiersCivilizationVGodsandKings'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Jun182012'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+601,,329.0,51%,$7.99,['StellarisLithoidsSpeciesPack'],['Paradox Development Studio'],['Paradox Interactive'],['Oct242019'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+602,,7312.0,94%,$19.99,['VampireTheMasqueradeBloodlines'],['Troika Games'],['Activision'],['Nov162004'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+603,,466.0,37%,,['CivilizationVIPersiaandMacedonCivilizationScenarioPack'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Mar282017'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+604,,461.0,73%,$14.99,['CitiesSkylinesIndustries'],['Colossal Order Ltd.'],['Paradox Interactive'],['Oct232018'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+605,,137020.0,96%,Free,['LifeisStrangeEpisode1'],"['DONTNOD Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Square Enix', 'Feral interactive (Mac)', 'Feral Interactive (Linux)']",['Jan292015'],['Life is Strange'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,$9.99                    ,352.0,81%,$19.99,['RAD'],['Double Fine Productions'],['BANDAI NAMCO Entertainment America Inc.'],['Aug192019'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,,10149.0,90%,$19.99,['LittleNightmares'],['Tarsier Studios'],['BANDAI NAMCO Entertainment'],['Apr272017'],[],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+608,,96681.0,95%,$19.99,['TombRaider'],"['Crystal Dynamics', 'Eidos-Montréal', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['Square Enix', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Mar42013'],['Tomb Raider'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+609,,0.0,No Rating,$23.75,['ARKSurvivalEvolvedExplorersEdition'],"['Studio Wildcard', 'Instinct Games', 'Efecto Studios', 'Virtual Basement LLC', 'Abstraction Games']","['Studio Wildcard', 'Snail Games USA']",[],[],1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,,6932.0,92%,$24.99,['LobotomyCorporationMonsterManagementSimulation'],['ProjectMoon'],['ProjectMoon'],['Apr92018'],['ProjectMoon'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+611,,24481.0,79%,$29.99,['FarCry4'],"['Ubisoft Montreal', 'Red Storm', 'Shanghai', 'Toronto', 'Kiev']",['Ubisoft'],['Nov182014'],['Far Cry'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+612,,2576.0,79%,$39.99,['TheSurge2'],['Deck13'],['Focus Home Interactive'],['Sep232019'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+613,,55.0,100%,$14.99,['Warhammer40000GladiusTau'],['Proxy Studios'],['Slitherine Ltd.'],['Feb252020'],['Warhammer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+614,,897.0,86%,$19.99,['LegendofKeepersCareerofaDungeonMaster'],['Goblinz Studio'],['Goblinz Studio'],['Mar192020'],['Goblinz Studio'],0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+615,,374.0,81%,$39.99,['DragonMarkedForDeath'],"['INTI CREATES CO.', 'LTD.']","['INTI CREATES CO.', 'LTD.']",['Apr212020'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+616,,597.0,83%,$19.99,['RollerCoasterTycoonClassic'],['Origin8 Technologies Ltd.'],"['Atari', 'Inc.']",['Sep282017'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+617,,2321.0,66%,$25.99,['ArcheAgeUnchained'],['XLGAMES'],"['Trion Worlds', 'gamigo US']",['Oct172019'],[],0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+618,,8375.0,82%,$19.99,['Armello'],['League of Geeks'],['League of Geeks'],['Sep12015'],[],0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+619,,9442.0,44%,$59.99,['CallofDutyInfiniteWarfare'],['Infinity Ward'],['Activision'],['Nov32016'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+620,,56270.0,78%,$19.99,['JustCause3'],['Avalanche Studios'],['Square Enix'],['Nov302015'],['Just Cause'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+621,,7902.0,93%,$19.99,['FarmTogether'],['Milkstone Studios'],['Milkstone Studios'],['Oct112018'],[],0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+622,,30781.0,48%,Free to Play,['theHunterClassic'],"['Expansive Worlds', 'Avalanche Studios']","['Expansive Worlds', 'Avalanche Studios']",['Jun32014'],[],1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+623,,387.0,58%,Free To Play,['WarPlanetOnlineGlobalConquest'],['Gameloft'],['Gameloft'],['Dec192017'],[],0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+624,,2419.0,85%,$24.99,['ProjectHospital'],['Oxymoron Games'],['Oxymoron Games'],['Oct302018'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+625,,11696.0,87%,$19.99,['ResidentEvil5Biohazard5'],['Capcom'],['Capcom'],['Sep152009'],['Resident Evil'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+626,,6050.0,79%,Free to Play,['GemsofWarPuzzleRPG'],['Infinity Plus 2'],['505 Games'],['Nov202014'],['505 Games Official'],1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+627,$8.39                    ,0.0,No Rating,$31.97,['ThisWarofMineCompleteEdition'],['11 bit studios'],['11 bit studios'],[],['11 bit studios'],0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+628,$2.99                    ,3264.0,93%,$14.99,['WormsArmageddon'],['Team17 Digital Ltd'],['Team17 Digital Ltd'],['May311999'],['Team17 Digital'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+629,,14449.0,97%,$2.99,['MuseDash'],['PeroPeroGames'],['X.D. Network Inc.'],['Jun202019'],['X.D. Network Inc.'],1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+630,,18439.0,88%,$59.99,['SniperElite4'],['Rebellion'],['Rebellion'],['Feb132017'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+631,,186.0,81%,$14.99,['JurassicWorldEvolutionSecretsofDrWu'],['Frontier Developments'],[],['Nov202018'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,,458.0,73%,$9.99,['StellarisLeviathansStoryPack'],['Paradox Development Studio'],['Paradox Interactive'],['Oct202016'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+633,,4712.0,82%,$49.99,['Injustice2'],"['NetherRealm Studios', 'QLOC']",['WB Games'],['Nov302017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+634,,6053.0,92%,$29.99,['Warhammer40000SpaceMarine'],['Relic Entertainment'],['SEGA'],['Sep52011'],['Warhammer'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+635,,7055.0,76%,Free to Play,['MechWarriorOnlineSolaris7'],['Piranha Games Inc.'],['Piranha Games Inc.'],['Dec102015'],[],1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,,159.0,87%,$7.99,['SpaceEngineersDeluxe'],['Keen Software House'],[],['Dec222016'],[],1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+637,,0.0,No Rating,$59.99,['VampireTheMasqueradeBloodlines2'],['Hardsuit Labs'],['Paradox Interactive'],['2020'],"['World of Darkness', 'Vampire: The Masquerade']",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+638,,318.0,81%,$14.99,['CitiesSkylinesParklife'],['Colossal Order Ltd.'],['Paradox Interactive'],['May242018'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+639,,381.0,66%,$9.99,['StellarisDistantStarsStoryPack'],['Paradox Development Studio'],['Paradox Interactive'],['May222018'],['Stellaris'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+640,,32771.0,91%,$14.99,['TheStanleyParable'],['Galactic Cafe'],['Galactic Cafe'],['Oct172013'],[],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+641,,7167.0,98%,$9.99,['PeoplePlayground'],['mestiez'],['Studio Minus'],['Jul232019'],[],0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+642,,7202.0,76%,$39.99,['GalacticCivilizationsIII'],['Stardock Entertainment'],['Stardock Entertainment'],['May142015'],"['Galactic Civilizations', 'Stardock']",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,,8451.0,98%,$14.99,['BabaIsYou'],['Hempuli Oy'],['Hempuli Oy'],['Mar132019'],[],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+644,,52043.0,89%,$19.99,['FarCry3'],"['Ubisoft Montreal', 'Massive Entertainment', 'and Ubisoft Shanghai']",['Ubisoft'],['Dec42012'],['Far Cry'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+645,,69.0,95%,$9.99,['DeepRockGalacticOriginalSoundtrackVolumeIII'],['Ghost Ship Games'],['Coffee Stain Publishing'],['Feb282018'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+646,,958.0,88%,$19.99,['Receiver2'],['Wolfire Games'],['Wolfire Games'],['Apr142020'],['Wolfire Games'],1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+647,,2730.0,95%,$39.99,['TheLegendofHeroesTrailsofColdSteel'],['Nihon Falcom'],"['XSEED Games', 'Marvelous USA', 'Inc.']",['Aug22017'],['Trails in the Sky'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+648,$19.99                    ,325.0,81%,$24.99,['FortTriumph'],['CookieByte Entertainment'],['All in! Games'],['Apr162020'],['All in! Games'],0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+649,,413.0,77%,$9.99,['WarhammerVermintide2BacktoUbersreik'],['Fatshark'],['Fatshark'],['Dec102018'],"['Vermintide', 'Fatshark', 'Warhammer']",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+650,,3583.0,90%,$19.99,['HaloWarsDefinitiveEdition'],"['Ensemble Studios', 'Behaviour Interactive', '343 Industries']",['Xbox Game Studios'],['Apr202017'],[],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+651,,21309.0,98%,$14.99,['KatanaZERO'],['Askiisoft'],['Devolver Digital'],['Apr182019'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,,382.0,90%,$19.99,['MaxGentlemenSexyBusiness'],['The Men Who Wear Many Hats'],['The Men Who Wear Many Hats'],['Feb252020'],['Max Gentlemen'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,,34639.0,87%,Free to Play,['FalloutShelter'],['Bethesda Game Studios'],['Bethesda Softworks'],['Mar292017'],['Fallout'],0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+654,,2617.0,82%,$14.99,['CHRONOTRIGGER'],['Square Enix'],['Square Enix'],['Feb272018'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+655,,8877.0,47%,Free to Play,['KnightOnline'],"['Noah System', 'Mgame']",['NTTGame'],['Jan252016'],[],1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+656,,5680.0,82%,$10.99,['MistSurvival'],['Dimension 32 Entertainment'],['Dimension 32 Entertainment'],['Aug152018'],[],1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+657,,701.0,43%,,['CivilizationVIAustraliaCivilizationScenarioPack'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Feb232017'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+658,,15050.0,78%,$49.99,['NiohCompleteEdition仁王CompleteEdition'],"['KOEI TECMO GAMES CO.', 'LTD.']","['KOEI TECMO GAMES CO.', 'LTD.']",['Nov72017'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+659,,28881.0,94%,$29.99,['XCOMEnemyUnknown'],"['Firaxis Games', 'Feral Interactive (Linux)']","['2K', 'Feral Interactive (Linux)']",['Oct82012'],['XCOM'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+660,,29979.0,44%,$29.99,['ATLAS'],"['Grapeshot Games', 'Instinct Games']",['Grapeshot Games'],['Dec222018'],[],1,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+661,,118.0,86%,$39.99,['TheWonderful101Remastered'],['PlatinumGames Inc.'],['PlatinumGames Inc.'],['May192020'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,,623.0,48%,$9.99,['WarhammerVermintide2ShadowsOverBögenhafen'],['Fatshark'],['Fatshark'],['Aug282018'],"['Fatshark', 'Warhammer']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,,186.0,81%,$14.99,['JurassicWorldEvolutionSecretsofDrWu'],['Frontier Developments'],[],['Nov202018'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+664,,7581.0,98%,$19.99,['DUSK'],['David Szymanski'],['New Blood Interactive'],['Dec102018'],['New Blood Interactive'],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+665,,32771.0,91%,$14.99,['TheStanleyParable'],['Galactic Cafe'],['Galactic Cafe'],['Oct172013'],[],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+666,,1120.0,85%,$59.99,['AttackonTitan2AOT2進撃の巨人２'],"['KOEI TECMO GAMES CO.', 'LTD.']","['KOEI TECMO GAMES CO.', 'LTD.']",['Mar142018'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+667,,726.0,84%,$11.99,['ClueCluedoTheClassicMysteryGame'],['Marmalade Game Studio Ltd'],['Marmalade Game Studio Ltd'],['May172018'],[],0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+668,,15050.0,78%,$49.99,['NiohCompleteEdition仁王CompleteEdition'],"['KOEI TECMO GAMES CO.', 'LTD.']","['KOEI TECMO GAMES CO.', 'LTD.']",['Nov72017'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+669,,8629.0,97%,$4.99,['Soundpad'],['Leppsoft'],['Leppsoft'],['Nov92016'],[],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+670,,1426.0,63%,$9.99,['TotalWarTHREEKINGDOMSMandateofHeaven'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",[],['Jan162020'],['Total War'],1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+671,,0.0,No Rating,$65.41,['PlanetZooPremiumEdition'],['Frontier Developments'],"['Frontier Developments', 'Frontier Developments']",[],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+672,,2419.0,85%,$24.99,['ProjectHospital'],['Oxymoron Games'],['Oxymoron Games'],['Oct302018'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+673,,35393.0,96%,$19.99,['Outlast'],['Red Barrels'],['Red Barrels'],['Sep42013'],[],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+674,,7902.0,93%,$19.99,['FarmTogether'],['Milkstone Studios'],['Milkstone Studios'],['Oct112018'],[],0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+675,,11574.0,84%,$29.99,['EndlessLegendEmperorEdition'],['AMPLITUDE Studios'],['SEGA'],['Sep182014'],['AmplitudeStudios'],0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+676,,21309.0,98%,$14.99,['KatanaZERO'],['Askiisoft'],['Devolver Digital'],['Apr182019'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+677,,908.0,43%,$7.99,['TotalWarWARHAMMERChaosWarriors'],"['CREATIVE ASSEMBLY', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']","['SEGA', 'Feral Interactive (Mac)']",['May242016'],"['Total War', 'Warhammer']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+678,,43028.0,88%,$9.99,['TheWitcherEnhancedEditionDirectorsCut'],['CD PROJEKT RED'],"['CD PROJEKT RED', '1C-SoftClub']",['Sep162008'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+679,,4758.0,92%,$20.99,['FINALFANTASYIX'],['Square Enix'],['Square Enix'],['Apr142016'],['FINAL FANTASY'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+680,,381.0,66%,$9.99,['StellarisDistantStarsStoryPack'],['Paradox Development Studio'],['Paradox Interactive'],['May222018'],['Stellaris'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+681,,5432.0,70%,$14.99,['UltimateEpicBattleSimulator'],['Brilliant Game Studios'],['Brilliant Game Studios'],['Apr122017'],[],1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+682,,318.0,81%,$14.99,['CitiesSkylinesParklife'],['Colossal Order Ltd.'],['Paradox Interactive'],['May242018'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+683,,9493.0,94%,$6.99,['100OrangeJuice'],['Orange_Juice'],['Fruitbat Factory'],['Sep102013'],['Orange Juice'],0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+684,,46824.0,91%,$14.99,['SaintsRowIV'],['Deep Silver Volition'],['Deep Silver'],['Aug192013'],['Saints Row'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+685,,2730.0,95%,$39.99,['TheLegendofHeroesTrailsofColdSteel'],['Nihon Falcom'],"['XSEED Games', 'Marvelous USA', 'Inc.']",['Aug22017'],['Trails in the Sky'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+686,,8375.0,82%,$19.99,['Armello'],['League of Geeks'],['League of Geeks'],['Sep12015'],[],0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+687,,14449.0,97%,$2.99,['MuseDash'],['PeroPeroGames'],['X.D. Network Inc.'],['Jun202019'],['X.D. Network Inc.'],1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+688,,9233.0,88%,$29.99,['BattleBrothers'],['Overhype Studios'],['Overhype Studios'],['Mar242017'],[],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+689,,12477.0,95%,$19.99,['STALKERShadowofChernobyl'],['GSC Game World'],['GSC Game World'],['Mar202007'],['S.T.A.L.K.E.R.'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+690,,4518.0,77%,$19.99,['SimCity4DeluxeEdition'],"['EA - Maxis', 'Aspyr (Mac)']","['Electronic Arts', 'Aspyr (Mac)']",['Sep222003'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+691,,9832.0,56%,,['JustCause4Reloaded'],['Avalanche Studios'],['Square Enix'],['Dec42018'],['Just Cause'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+692,,1809.0,81%,$14.99,['RebelIncEscalation'],['Ndemic Creations'],['Ndemic Creations'],['Oct152019'],['Ndemic Creations Official'],0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+693,,4251.0,83%,$59.99,['NinoKuniIIRevenantKingdom'],['Level-5'],['BANDAI NAMCO Entertainment'],['Mar232018'],['BANDAI NAMCO Entertainment'],0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+694,$17.99                    ,123.0,62%,$19.99,['ThoseWhoRemain'],['Camel 101'],"['Wired Productions', 'WhisperGames']",['May282020'],['Wired Productions'],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+695,,16173.0,85%,$19.99,['LANoire'],"['Team Bondi', 'Rockstar Leeds']",['Rockstar Games'],['Nov82011'],[],0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,,39448.0,86%,$19.99,['Firewatch'],['Campo Santo'],"['Panic', 'Campo Santo']",['Feb92016'],[],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+697,,0.0,No Rating,$59.99,['VampireTheMasqueradeBloodlines2'],['Hardsuit Labs'],['Paradox Interactive'],['2020'],"['World of Darkness', 'Vampire: The Masquerade']",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+698,,8877.0,47%,Free to Play,['KnightOnline'],"['Noah System', 'Mgame']",['NTTGame'],['Jan252016'],[],1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+699,,594.0,76%,$24.99,['GoodCompany'],['Chasing Carrots'],['The Irregular Corporation'],['Mar312020'],['The Irregular Corporation'],0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+700,,123.0,83%,$19.99,['HITMANGOTYLegacyPack'],['IO Interactive A/S'],['Warner Bros. Interactive Entertainment'],['Nov92018'],['Hitman'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+701,,5016.0,93%,$39.99,['CrashBandicootNSaneTrilogy'],"['Vicarious Visions', 'Iron Galaxy']",['Activision'],['Jun292018'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+702,,7055.0,76%,Free to Play,['MechWarriorOnlineSolaris7'],['Piranha Games Inc.'],['Piranha Games Inc.'],['Dec102015'],[],1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+703,,5734.0,91%,$34.99,['MotorsportManager'],['Playsport Games'],['SEGA'],['Nov92016'],[],0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+704,,4712.0,82%,$49.99,['Injustice2'],"['NetherRealm Studios', 'QLOC']",['WB Games'],['Nov302017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+705,,2965.0,91%,$12.99,['JumpKing'],['Nexile'],['Nexile'],['May32019'],[],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+706,,16406.0,96%,$19.99,['MyFriendPedro'],['DeadToast Entertainment'],['Devolver Digital'],['Jun202019'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+707,,7339.0,90%,$19.99,['ThronebreakerTheWitcherTales'],['CD PROJEKT RED'],['CD PROJEKT RED'],['Nov92018'],[],0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+708,,1035.0,48%,$14.99,['ExpansionHeartsofIronIVTogetherforVictory'],['Paradox Development Studio'],['Paradox Interactive'],['Dec152016'],['Hearts of Iron IV'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+709,,2321.0,66%,$25.99,['ArcheAgeUnchained'],['XLGAMES'],"['Trion Worlds', 'gamigo US']",['Oct172019'],[],0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+710,,4082.0,81%,$49.99,['RailwayEmpire'],['Gaming Minds Studios'],['Kalypso Media'],['Jan262018'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+711,,23844.0,66%,$29.99,['AssassinsCreedUnity'],['Ubisoft'],['Ubisoft'],['Nov112014'],"['""Assassin\'s Creed""']",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+712,,708.0,96%,$11.99,['AmericanTruckSimulatorNewMexico'],['SCS Software'],['SCS Software'],['Nov92017'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+713,,112.0,83%,$9.99,['DarkestDungeonSoundtrack'],['Stuart Chatwood'],['Red Hook Studios'],['Jan192016'],[],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+714,,0.0,No Rating,$29.99,['DestroyAllHumans'],"['Black Forest Games', 'Pandemic Studios']",['THQ Nordic'],['Jul282020'],['Destroy All Humans!'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+715,,5264.0,76%,Free To Play,['AdventureQuest3D'],"['Artix Entertainment', 'LLC']","['Artix Entertainment', 'LLC']",['Oct192016'],['AdventureQuest'],1,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+716,,618.0,73%,$29.99,['SMITEUltimateGodPack'],['Hi-Rez Studios'],['Hi-Rez Studios'],['Sep82015'],[],1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+717,,34639.0,87%,Free to Play,['FalloutShelter'],['Bethesda Game Studios'],['Bethesda Softworks'],['Mar292017'],['Fallout'],0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+718,,3468.0,80%,$29.99,['TheUniversim'],['Crytivo'],['Crytivo'],['Aug12020'],['Crytivo'],0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+719,,2788.0,84%,$19.99,['TankMechanicSimulator'],['DeGenerals'],['PlayWay S.A.'],['Feb202020'],['PlayWay S.A.'],1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+720,,153.0,84%,$19.99,['Embr'],['Muse Games'],['Curve Digital'],['May212020'],['Curve Digital'],1,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+721,,52043.0,89%,$19.99,['FarCry3'],"['Ubisoft Montreal', 'Massive Entertainment', 'and Ubisoft Shanghai']",['Ubisoft'],['Dec42012'],['Far Cry'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+722,,422.0,71%,$24.99,['DRIFT21'],['ECC GAMES S.A.'],['505 Games'],['May72020'],['505 Games Official'],0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+723,$14.69                    ,242.0,92%,$29.99,['YookaLayleeandtheImpossibleLair'],['Playtonic Games'],['Team17 Digital Ltd'],['Oct82019'],['Yooka-Laylee'],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+724,,30781.0,48%,Free to Play,['theHunterClassic'],"['Expansive Worlds', 'Avalanche Studios']","['Expansive Worlds', 'Avalanche Studios']",['Jun32014'],[],1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+725,,2573.0,76%,$29.99,['SniperGhostWarriorContracts'],['CI Games'],['CI Games'],['Nov222019'],['Sniper Ghost Warrior'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+726,,15982.0,87%,$19.99,['residentevil4biohazard4'],['Capcom'],['Capcom'],['Feb272014'],['Resident Evil'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+727,,40500.0,71%,Free To Play,['RealmRoyale'],['Heroic Leap Games'],['Hi-Rez Studios'],['Jun52018'],[],1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+728,,6549.0,92%,$19.99,['RiseofNationsExtendedEdition'],"['SkyBox Labs', 'Big Huge Games']",['Xbox Game Studios'],['Jun122014'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+729,$8.99                    ,55.0,90%,$11.99,['Gedonia'],['Kazakov Oleg'],['Kazakov Oleg'],['Jun12020'],[],0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+730,,52272.0,81%,Free to Play,['Deceit'],['Baseline'],['Baseline'],['Mar32017'],[],1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+731,,4176.0,88%,$29.99,['UltimateGeneralCivilWar'],['Game-Labs'],['Game-Labs'],['Jul142017'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+732,,5987.0,96%,$19.99,['CloneDroneintheDangerZone'],['Doborog Games'],['Doborog Games'],['Mar162017'],[],1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+733,,20585.0,83%,Free to Play,['SpiralKnights'],"['Grey Havens', 'LLC']","['Grey Havens', 'LLC']",['Jun142011'],[],1,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+734,,336.0,79%,$39.99,['UltimateAdmiralAgeofSail'],['Game-Labs'],['Game-Labs'],['Mar42020'],"['Ultimate General', 'Ultimate Admiral']",0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+735,,370.0,71%,$6.99,['DeadbyDaylightCursedLegacyChapter'],['Behaviour Digital Inc.'],['Behaviour Digital Inc.'],['Dec32019'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+736,,1893.0,90%,$19.99,['LEGOStarWarsIIITheCloneWars'],"['""Traveller\'s Tales""']","['LucasArts', 'Lucasfilm', 'Disney']",['Mar222011'],['Star Wars'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+737,,28694.0,96%,$4.99,['PlantsvsZombiesGOTYEdition'],"['PopCap Games', 'Inc.']","['PopCap Games', 'Inc.', 'Electronic Arts']",['May52009'],['PopCap'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+738,,378.0,79%,$19.99,['LumberjacksDynasty'],"['Toplitz Productions', 'UMEO Studios']",['Toplitz Productions'],['Apr302020'],['Dynasty'],0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+739,,378.0,79%,$19.99,['LumberjacksDynasty'],"['Toplitz Productions', 'UMEO Studios']",['Toplitz Productions'],['Apr302020'],['Dynasty'],0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+740,,144.0,58%,$24.99,['DRAGONBALLZKAKAROTSeasonPass'],['CyberConnect2 Co. Ltd.'],['BANDAI NAMCO Entertainment'],['Jan162020'],"['FRANCHISE', 'BANDAI NAMCO Entertainment']",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+741,,7257.0,93%,$39.99,['SinsofaSolarEmpireRebellion'],"['Ironclad Games', 'Stardock Entertainment']",['Stardock Entertainment'],['Jun122012'],"['Sins of a Solar Empire', 'Stardock Entertainment']",1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+742,,17906.0,88%,$29.99,['Prey'],['Arkane Studios'],['Bethesda Softworks'],['May42017'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+743,,13774.0,91%,$19.99,['TitanQuestAnniversaryEdition'],"['Iron Lore Entertainment', 'THQ Nordic']",['THQ Nordic'],['Aug312016'],['Titan Quest'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+744,,15003.0,88%,$29.99,['Outlast2'],['Red Barrels'],['Red Barrels'],['Apr252017'],[],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+745,,6309.0,86%,$29.99,['Tyranny'],['Obsidian Entertainment'],['Paradox Interactive'],['Nov102016'],[],0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+746,,387.0,58%,Free To Play,['WarPlanetOnlineGlobalConquest'],['Gameloft'],['Gameloft'],['Dec192017'],[],0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+747,,52.0,82%,$14.99,['Warhammer40000GladiusTyranids'],['Proxy Studios'],['Slitherine Ltd.'],['Jan152019'],['Warhammer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+748,,17233.0,96%,$9.99,['HuniePop'],['HuniePot'],['HuniePot'],['Jan192015'],[],0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+749,,6184.0,58%,$59.99,['ROMANCEOFTHETHREEKINGDOMSXIV'],"['KOEI TECMO GAMES CO.', 'LTD.']","['KOEI TECMO GAMES CO.', 'LTD.']",['Jan152020'],[],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+750,$0.99                    ,39832.0,95%,$9.99,['POSTAL2'],['Running With Scissors'],['Running With Scissors'],['Apr132003'],['POSTAL'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+751,,13443.0,92%,$19.99,['HELLDIVERSDiveHarderEdition'],['Arrowhead Game Studios'],"['PlayStation Mobile', 'Inc.']",['Dec72015'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+752,,31807.0,95%,$14.99,['Besiege'],['Spiderling Studios'],['Spiderling Studios'],['Feb182020'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+753,,642.0,80%,$14.99,['CitiesSkylinesNaturalDisasters'],['Colossal Order Ltd.'],['Paradox Interactive'],['Nov292016'],['Cities: Skylines'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+754,,2665.0,93%,$24.99,['Descenders'],['RageSquid'],['No More Robots'],['May72019'],['No More Robots'],1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+755,,52.0,82%,$14.99,['Warhammer40000GladiusTyranids'],['Proxy Studios'],['Slitherine Ltd.'],['Jan152019'],['Warhammer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+756,,8736.0,88%,$14.99,['AliensvsPredator'],['Rebellion'],['SEGA'],['Feb162010'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+757,,24354.0,90%,$19.99,['SleepingDogsDefinitiveEdition'],"['United Front Games', 'Feral Interactive (Mac)']","['SQUARE ENIX', 'Feral Interactive (Mac)']",['Oct82014'],[],1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+758,,52272.0,81%,Free to Play,['Deceit'],['Baseline'],['Baseline'],['Mar32017'],[],1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+759,,1762.0,63%,$19.99,['ARKExtinctionExpansionPack'],"['Studio Wildcard', 'Instinct Games', 'Efecto Studios', 'Virtual Basement LLC']","['Snail Games USA', 'Studio Wildcard']",['Nov62018'],[],1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+760,,577.0,79%,$19.99,['Gunsmith'],['Seacorp Technologies'],['Seacorp Technologies'],['May252018'],[],1,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+761,,793.0,62%,Free To Play,['StarTrekTimelines'],['Disruptor Beam Inc.'],['Disruptor Beam Inc.'],['Jan142016'],[],0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+762,,239.0,94%,$79.99,['DCSF14byHeatblurSimulations'],['Heatblur Simulations'],['Eagle Dynamics SA'],['Mar132019'],[],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+763,,17906.0,88%,$29.99,['Prey'],['Arkane Studios'],['Bethesda Softworks'],['May42017'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+764,,9493.0,94%,$6.99,['100OrangeJuice'],['Orange_Juice'],['Fruitbat Factory'],['Sep102013'],['Orange Juice'],0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+765,,14647.0,93%,$14.99,['PathOfWuxia'],['Heluo Studio'],['香港商河洛互動娛樂股份有限公司'],['Apr302020'],[],0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+766,,2797.0,92%,$29.99,['Parkitect'],['Texel Raptor'],['Texel Raptor'],['Nov292018'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+767,,1120.0,85%,$59.99,['AttackonTitan2AOT2進撃の巨人２'],"['KOEI TECMO GAMES CO.', 'LTD.']","['KOEI TECMO GAMES CO.', 'LTD.']",['Mar142018'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+768,,160.0,98%,$29.99,['YOUandMEandHERALoveStory'],['Nitroplus'],['JAST USA'],['May252020'],[],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+769,,92.0,53%,$9.99,['ConanExilesDebaucheriesofDerketoPack'],['Funcom'],['Funcom'],['Oct82019'],['Funcom'],1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+770,,251.0,72%,$19.99,['ExpansionEuropaUniversalisIVRightsofMan'],['Paradox Development Studio'],['Paradox Interactive'],['Oct112016'],['Europa Universalis'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+771,,500.0,94%,$4.99,['DeadCellsTheBadSeed'],"['Motion Twin', 'Evil Empire']",['Motion Twin'],['Feb112020'],['Dead Cells'],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+772,,112.0,83%,$9.99,['DarkestDungeonSoundtrack'],['Stuart Chatwood'],['Red Hook Studios'],['Jan192016'],[],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+773,,706.0,78%,$9.99,['Arma3Marksmen'],['Bohemia Interactive'],['Bohemia Interactive'],['Apr82015'],['Arma Franchise'],1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+774,,2629.0,86%,$9.99,['RollerCoasterTycoon2TripleThrillPack'],['Chris Sawyer Productions'],['Atari'],['Oct152002'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+775,,458.0,88%,$29.99,['Rocksmith'],['Ubisoft - San Francisco'],['Ubisoft'],['Oct162012'],['Rocksmith'],0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+776,,9075.0,46%,$39.99,['Warhammer40000DawnofWarIII'],"['Relic Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['SEGA', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",['Apr272017'],['Warhammer'],1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+777,,17233.0,96%,$9.99,['HuniePop'],['HuniePot'],['HuniePot'],['Jan192015'],[],0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+778,,3206.0,86%,$24.99,['Trailmakers'],['Flashbulb'],['Flashbulb'],['Sep182019'],[],1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+779,,3538.0,80%,$12.99,['StartupCompany'],['Hovgaard Games'],['Hovgaard Games'],['Apr102020'],[],0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+780,,2207.0,68%,$59.99,['DEADORALIVE6'],"['KOEI TECMO GAMES CO.', 'LTD.']","['KOEI TECMO GAMES CO.', 'LTD.']",['Feb282019'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+781,,4553.0,47%,Free To Play,['StayOut'],['Mobile Technologies LLC'],['Mobile Technologies LLC'],['Nov272019'],[],1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+782,,15003.0,88%,$29.99,['Outlast2'],['Red Barrels'],['Red Barrels'],['Apr252017'],[],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+783,,15003.0,88%,$29.99,['Outlast2'],['Red Barrels'],['Red Barrels'],['Apr252017'],[],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+784,,28694.0,96%,$4.99,['PlantsvsZombiesGOTYEdition'],"['PopCap Games', 'Inc.']","['PopCap Games', 'Inc.', 'Electronic Arts']",['May52009'],['PopCap'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+785,,336.0,79%,$39.99,['UltimateAdmiralAgeofSail'],['Game-Labs'],['Game-Labs'],['Mar42020'],"['Ultimate General', 'Ultimate Admiral']",0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+786,,1297.0,95%,$39.99,['TheLegendofHeroesTrailsofColdSteelII'],['Nihon Falcom'],"['XSEED Games', 'Marvelous USA', 'Inc.']",['Feb142018'],['Trails in the Sky'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+787,,2699.0,90%,$6.99,['DeadbyDaylightTheHalloweenChapter'],['Behaviour Digital Inc.'],['Behaviour Digital Inc.'],['Oct252016'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+788,,1327.0,60%,$19.99,['FINALFANTASYVIIIREMASTERED'],['Square Enix'],['Square Enix'],['Sep32019'],['FINAL FANTASY'],0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+789,,39.0,87%,$14.99,['Warhammer40000GladiusChaosSpaceMarines'],['Proxy Studios'],['Slitherine Ltd.'],['Jul182019'],['Warhammer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+790,$14.99                    ,10175.0,74%,$24.99,['YoutubersLife'],['U-Play Online'],"['U-Play Online', '🚀 Raiser Games']",['May182016'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+791,,6374.0,87%,$14.99,['CarXDriftRacingOnline'],"['CarX Technologies', 'LLC']","['CarX Technologies', 'LLC']",['Nov172017'],[],0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+792,,0.0,No Rating,$29.99,['DestroyAllHumans'],"['Black Forest Games', 'Pandemic Studios']",['THQ Nordic'],['Jul282020'],['Destroy All Humans!'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+793,,88905.0,96%,$9.99,['CounterStrike'],['Valve'],['Valve'],['Nov12000'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+794,,2938.0,93%,$14.99,['UnderMine'],['Thorium'],['Thorium'],['Aug202019'],[],1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+795,,43028.0,88%,$9.99,['TheWitcherEnhancedEditionDirectorsCut'],['CD PROJEKT RED'],"['CD PROJEKT RED', '1C-SoftClub']",['Sep162008'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+796,,4410.0,88%,$14.99,['Forts'],['EarthWork Games'],['EarthWork Games'],['Apr192017'],[],1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+797,,16355.0,96%,$9.99,['NEKOPARAVol1'],['NEKO WORKs'],['Sekai Project'],['Dec292014'],[],0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+798,,67.0,76%,$9.99,['ConanExilesSeekersoftheDawnPack'],['Funcom'],['Funcom'],['Dec122018'],['Funcom'],1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+799,,6184.0,58%,$59.99,['ROMANCEOFTHETHREEKINGDOMSXIV'],"['KOEI TECMO GAMES CO.', 'LTD.']","['KOEI TECMO GAMES CO.', 'LTD.']",['Jan152020'],[],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+800,,373.0,95%,$29.99,['MuseDashJustasplanned'],['PeroPeroGames'],['X.D. Network Inc.'],['Jun202019'],['X.D. Network Inc.'],1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+801,,31807.0,95%,$14.99,['Besiege'],['Spiderling Studios'],['Spiderling Studios'],['Feb182020'],[],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+802,,41449.0,97%,$14.99,['BattleBlockTheater'],['The Behemoth'],['The Behemoth'],['May152014'],[],1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+803,,40500.0,71%,Free To Play,['RealmRoyale'],['Heroic Leap Games'],['Hi-Rez Studios'],['Jun52018'],[],1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+804,,14518.0,95%,$19.99,['WhatRemainsofEdithFinch'],['Giant Sparrow'],['Annapurna Interactive'],['Apr242017'],[],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+805,,45.0,77%,$9.99,['ConanExilesRidersofHyboriaPack'],['Funcom'],['Funcom'],['Dec52019'],['Funcom'],1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+806,,454.0,91%,$9.99,['RustInstruments'],['Facepunch Studios'],[],['Dec52019'],[],1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+807,,70.0,81%,$9.99,['ConanExilesTheSavageFrontierPack'],['Funcom'],['Funcom'],['Oct92018'],"['Conan Exiles', 'Funcom']",1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+808,,203.0,87%,$3.99,['EuroTruckSimulator2FHTuningPack'],['SCS Software'],['SCS Software'],['Jun22020'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+809,,9427.0,91%,$19.99,['CallofDuty4ModernWarfare'],['Infinity Ward'],['Activision'],['Nov122007'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+810,,507.0,84%,$19.99,['SidMeiersCivilizationIVColonization'],['Firaxis Games'],['2K'],['Sep232008'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+811,,1126.0,79%,$9.99,['FalloutTacticsBrotherhoodofSteel'],['14° East'],['Bethesda Softworks'],['Mar12001'],['Fallout'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+812,,11235.0,94%,$29.99,['MassEffect2DigitalDeluxeEdition'],['BioWare'],['Electronic Arts'],['Jan272010'],[],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+813,,1067.0,97%,$19.99,['SpinRhythmXD'],['Super Spin Digital'],['Super Spin Digital'],['Oct222019'],[],1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+814,,2407.0,96%,$19.99,['LethalLeagueBlaze'],['Team Reptile'],['Team Reptile'],['Oct242018'],[],1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+815,,2157.0,92%,$29.99,['FellSealArbitersMark'],['6 Eyes Studio'],['1C Entertainment'],['Apr302019'],['1C'],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+816,$17.09                    ,7242.0,81%,$18.99,['AmazingCultivationSimulator'],['GSQ Games'],['Gamera Game'],['Jan102019'],[],0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+817,,0.0,No Rating,$59.99,['DEATHSTRANDING'],['KOJIMA PRODUCTIONS'],['505 Games'],['Jul142020'],['505 Games Official'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+818,,338.0,76%,$3.99,['DarkestDungeonTheShieldbreaker'],['Red Hook Studios'],[],['Oct262017'],[],0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+819,,0.0,No Rating,$59.48,['TheWarlordpackage'],['TaleWorlds Entertainment'],['TaleWorlds Entertainment'],[],[],1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+820,,37030.0,96%,$9.99,['Dishonored'],['Arkane Studios'],['Bethesda Softworks'],['Oct82012'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+821,,3357.0,93%,$19.99,['YakuzaKiwami'],['SEGA'],['SEGA'],['Feb192019'],['Yakuza'],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+822,,0.0,No Rating,$59.99,['SWORDARTONLINEAlicizationLycoris'],"['AQURIA Co.', 'Ltd.']",['BANDAI NAMCO Entertainment'],['9thJuly2020'],['BANDAI NAMCO Entertainment'],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+823,,101.0,79%,$14.99,['X4SplitVendetta'],['Egosoft'],['Egosoft'],['Mar312020'],['X'],1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+824,$8.99                    ,55.0,90%,$11.99,['Gedonia'],['Kazakov Oleg'],['Kazakov Oleg'],['Jun12020'],[],0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+825,,1224.0,97%,$19.99,['Wildermyth'],['Worldwalker Games LLC'],"['Worldwalker Games LLC', 'WhisperGames']",['Nov132019'],[],0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+826,,4344.0,97%,$5.99,['Mindustry'],['AnukenDev'],['AnukenDev'],['Sep262019'],[],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+827,,15982.0,87%,$19.99,['residentevil4biohazard4'],['Capcom'],['Capcom'],['Feb272014'],['Resident Evil'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+828,,785.0,86%,$99.99,['GameMakerStudio2Desktop'],['YoYo Games Ltd.'],['YoYo Games Ltd.'],['Mar82017'],[],0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,1
+829,,10674.0,88%,$19.99,['KingdomsofAmalurReckoning'],"['Big Huge Games', '38 Studios']","['38 Studios', 'Electronic Arts']",['Feb72012'],[],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+830,,3894.0,92%,$19.99,['CompanyofHeroes'],['Relic Entertainment'],['SEGA'],['Sep112006'],['Company of Heroes'],1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+831,$2.99                    ,3496.0,84%,$14.99,['WormsRevolution'],['Team17 Digital Ltd'],['Team17 Digital Ltd'],['Oct102012'],['Team17 Digital'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+832,,4209.0,91%,$17.99,['SkulTheHeroSlayer'],['SouthPAW Games'],['NEOWIZ'],['Feb192020'],['NEOWIZ'],1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+833,,8881.0,72%,$15.99,['FINALFANTASYXIII'],['Square Enix'],['Square Enix'],['Oct92014'],['FINAL FANTASY'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+834,$14.69                    ,242.0,92%,$29.99,['YookaLayleeandtheImpossibleLair'],['Playtonic Games'],['Team17 Digital Ltd'],['Oct82019'],['Yooka-Laylee'],0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+835,,38.0,60%,$9.99,['ConanExilesBloodandSandPack'],['Funcom'],['Funcom'],['Sep32019'],['Funcom'],1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+836,,4591.0,91%,$9.99,['Turmoil'],['Gamious'],['Gamious'],['Jun22016'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+837,,2036.0,90%,$39.99,['KillerInstinct'],['Iron Galaxy'],['Xbox Game Studios'],['Sep272017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+838,$0.99                    ,39832.0,95%,$9.99,['POSTAL2'],['Running With Scissors'],['Running With Scissors'],['Apr132003'],['POSTAL'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+839,,164.0,79%,$149.99,['SubstancePainter2020'],['Adobe'],['Adobe'],['Dec172019'],[],0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+840,,2453.0,75%,$19.99,['ARKAberrationExpansionPack'],"['Studio Wildcard', 'Instinct Games', 'Efecto Studios', 'Virtual Basement LLC', 'Abstraction Games']",[],['Dec122017'],[],1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+841,,2102.0,84%,$24.99,['Fallout4FarHarbor'],['Bethesda Game Studios'],['Bethesda Softworks'],['May182016'],['Fallout'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+842,,4663.0,72%,$24.99,['MasterofOrion'],['NGD Studios'],['Wargaming Labs'],['Feb262016'],[],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+843,,20210.0,89%,$19.99,['Depth'],['Digital Confectioners'],['Digital Confectioners'],['Nov32014'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+844,,0.0,No Rating,$59.98,['MonsterHunterWorldIceborneMasterEdition'],"['CAPCOM Co.', 'Ltd.']","['CAPCOM Co.', 'Ltd.']",[],['Monster Hunter'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+845,,8936.0,88%,$19.99,['AssassinsCreedBrotherhood'],['Ubisoft Montreal'],['Ubisoft'],['Mar222011'],"['""Assassin\'s Creed""']",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+846,,7843.0,93%,$49.99,['TalesofBerseria'],['BANDAI NAMCO Studios Inc.'],['BANDAI NAMCO Entertainment'],['Jan262017'],['BANDAI NAMCO Entertainment'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+847,,248.0,96%,$14.99,['TonightWeRiot'],['Pixel Pushers Union 512'],['Means Interactive'],['May72020'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+848,,9832.0,56%,,['JustCause4Reloaded'],['Avalanche Studios'],['Square Enix'],['Dec42018'],['Just Cause'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+849,,10731.0,92%,$19.99,['SonicMania'],"['Christian Whitehead', 'Headcannon', 'PagodaWest Games']",['SEGA'],['Aug292017'],['Sonic the Hedgehog'],1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+850,,17166.0,79%,$29.99,['ResidentEvil6Biohazard6'],['Capcom'],['Capcom'],['Mar222013'],['Resident Evil'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+851,,167.0,75%,$3.99,['SpaceEngineersDecorativePack2'],['Keen Software House'],[],['Oct242019'],[],1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+852,,11235.0,94%,$19.99,['MassEffect2'],['BioWare'],['Electronic Arts'],['Jan262010'],['Mass Effect'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+853,,1313.0,83%,$19.99,['GROUNDBRANCH'],['BlackFoot Studios'],['BlackFoot Studios'],['Aug142018'],[],1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+854,,77752.0,94%,$3.99,['GeometryDash'],['RobTop Games'],['RobTop Games'],['Dec222014'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+855,,7250.0,95%,$9.99,['STARWARSJediKnightJediAcademy'],['Raven Software'],"['LucasArts', 'Lucasfilm', 'Disney']",['Sep162003'],['Star Wars'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+856,,2055.0,59%,Free,['RakionChaosForce'],"['Neosonyx Co.', 'Ltd.']","['Neosonyx Co.', 'Ltd.']",['Mar242020'],[],1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+857,,343.0,52%,$7.99,['StellarisHumanoidsSpeciesPack'],['Paradox Development Studio'],['Paradox Interactive'],['Dec72017'],['Stellaris'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+858,,1811.0,82%,$19.99,['LEGOMarvelSuperHeroes2'],"['TT Games', 'Feral Interactive (Mac)']","['Warner Bros. Interactive', 'Feral Interactive (Mac)']",['Nov142017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+859,,1130.0,88%,$14.99,['CurseoftheDeadGods'],['Passtech Games'],['Focus Home Interactive'],['Mar32020'],[],1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+860,,1487.0,93%,$17.99,['EuroTruckSimulator2BeyondtheBalticSea'],['SCS Software'],['SCS Software'],['Nov292018'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+861,,9223.0,88%,$29.99,['WargameRedDragon'],['Eugen Systems'],['Eugen Systems'],['Apr172014'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+862,,28060.0,89%,$19.99,['Banished'],['Shining Rock Software LLC'],['Shining Rock Software LLC'],['Feb182014'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+863,,252.0,82%,$5.99,['CallofDutyBlackOpsIIITheGiantZombiesMap'],"['Treyarch', 'Aspyr (Mac)']","['Activision', 'Aspyr (Mac)']",['Jun22016'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+864,,13443.0,92%,$19.99,['HELLDIVERSDiveHarderEdition'],['Arrowhead Game Studios'],"['PlayStation Mobile', 'Inc.']",['Dec72015'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+865,,131.0,65%,$5.99,['PrisonArchitectPsychWardWardensEdition'],['Double Eleven'],['Paradox Interactive'],['Nov212019'],['Prison Architect'],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+866,,1819.0,89%,$19.99,['Autonauts'],['Denki'],['Curve Digital'],['Oct172019'],['Curve Digital'],0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+867,$8.99                    ,723.0,97%,$14.99,['TheComa2ViciousSisters'],['Devespresso Games'],"['Headup', 'WhisperGames']",['Jan282020'],['Headup'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+868,,1481.0,73%,$19.99,['TerraformingMars'],['Asmodee Digital'],['Asmodee Digital'],['Oct172018'],['Asmodee Digital'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+869,,53.0,88%,$9.99,['ConanExilesTreasuresofTuranPack'],['Funcom'],['Funcom'],['Apr152019'],['Funcom'],1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+870,,4781.0,85%,$14.99,['WitchIt'],['Barrel Roll Games'],['Daedalic Entertainment'],['May312017'],[],1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+871,,709.0,69%,$39.99,['Ashen'],['A44'],['Annapurna Interactive'],['Dec92019'],[],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+872,,1893.0,90%,$19.99,['LEGOStarWarsIIITheCloneWars'],"['""Traveller\'s Tales""']","['LucasArts', 'Lucasfilm', 'Disney']",['Mar222011'],['Star Wars'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+873,,2743.0,93%,$19.99,['EmpiresoftheUndergrowth'],['Slug Disco Studios'],['Slug Disco Studios'],['Dec12017'],[],0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+874,,173.0,95%,$4.99,['AmericanTruckSimulatorForestMachinery'],['SCS Software'],['SCS Software'],['Jun112019'],['SCS Software'],0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+875,,312.0,90%,$24.99,['BraveAlchemistColette'],['Acerola'],['Kagura Games'],['Apr272020'],['Kagura Games'],0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+876,,24496.0,89%,$19.99,['WolfensteinTheNewOrder'],['Machine Games'],['Bethesda-Soft'],['May192014'],['Wolfenstein'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+877,,7755.0,92%,$14.99,['PainttheTownRed'],['South East Games'],['South East Games'],['Oct132015'],[],1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+878,,555.0,74%,$29.99,['WarhammerUnderworldsOnline'],['Steel Sky Productions'],['Steel Sky Productions'],['Apr212020'],"['Warhammer', 'Warhammer Underworlds: Online']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+879,,20957.0,81%,$19.99,['MortalKombatX'],"['NetherRealm Studios', 'QLOC']",['Warner Bros. Interactive Entertainment'],['Apr132015'],['Mortal Kombat'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+880,,157.0,89%,$19.99,['TheSims3Seasons'],['The Sims Studio'],['Electronic Arts'],['Nov202012'],['The Sims'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+881,,3541.0,91%,$29.99,['Trine4TheNightmarePrince'],['Frozenbyte'],['Modus Games'],['Oct82019'],['Trine'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+882,,21931.0,86%,$19.99,['AssassinsCreed2DeluxeEdition'],['Ubisoft Montreal'],['Ubisoft'],['Mar92010'],"['""Assassin\'s Creed""']",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+883,,1888.0,90%,$19.99,['TheHouseofDaVinci'],['Blue Brain Games'],['Blue Brain Games'],['Nov242017'],[],0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+884,,5284.0,68%,$39.99,['PixARK'],['Snail Games USA'],['Snail Games USA'],['May312019'],[],1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+885,,2461.0,86%,$39.99,['BulletstormFullClipEdition'],['People Can Fly'],['Gearbox Publishing'],['Apr72017'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+886,,904.0,56%,$9.99,['ExpansionHeartsofIronIVDeathorDishonor'],['Paradox Development Studio'],['Paradox Interactive'],['Jun142017'],['Hearts of Iron IV'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+887,,142.0,89%,$19.99,['SurvivingMarsGreenPlanet'],['Haemimont Games'],['Paradox Interactive'],['May162019'],"['Surviving Mars', 'Surviving']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+888,$15.99                    ,1248.0,88%,$19.99,['LittleBigWorkshop'],['Mirage Game Studios'],"['HandyGames', 'THQ Nordic']",['Oct172019'],[],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+889,,11447.0,56%,$39.99,['SidMeiersCivilizationBeyondEarth'],"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",['Oct232014'],"['""Sid Meier\'s Civilization""']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+890,,11924.0,95%,$39.99,['ShadowTacticsBladesoftheShogun'],['Mimimi Games'],['Daedalic Entertainment'],['Dec62016'],['Daedalic Entertainment'],0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+891,,864.0,81%,$4.99,['DeadbyDaylightGhostFace'],['Behaviour Interactive Inc.'],['Behaviour Interactive Inc.'],['Jun182019'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+892,,861.0,91%,$24.99,['MASSBuilder'],['Vermillion Digital'],['Sekai Project'],['Sep132019'],[],1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+893,,1194.0,88%,$49.99,['TalesofVesperiaDefinitiveEdition'],"['QLOC', 'BANDAI NAMCO Studios Inc.']",['BANDAI NAMCO Entertainment'],['Jan102019'],['BANDAI NAMCO Entertainment'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+894,,54.0,92%,$14.99,['PlanetCoasterGhostbusters'],['Frontier Developments'],['Frontier Developments'],['Jun42019'],['Planet Coaster'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+895,,612.0,55%,Free to Play,['GranadoEspada'],"['IMCGAMES Co.', 'Ltd.']","['IMCGAMES Co.', 'Ltd.']",['Oct152017'],[],0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+896,,1470.0,92%,$29.99,['KatamariDamacyREROLL'],['MONKEYCRAFT Co. Ltd.'],['BANDAI NAMCO Entertainment'],['Dec62018'],[],1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+897,,5504.0,90%,$19.99,['FromtheDepths'],['Brilliant Skies Ltd.'],['Brilliant Skies Ltd.'],['Aug72014'],[],1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+898,,7625.0,94%,$9.99,['STARWARSRepublicCommando'],['LucasArts'],"['LucasArts', 'Lucasfilm', 'Disney']",['Mar12005'],['Star Wars'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+899,,2537.0,84%,$59.99,['WARRIORSOROCHI4Ultimate無双OROCHI３Ultimate'],"['KOEI TECMO GAMES CO.', 'LTD.']","['KOEI TECMO GAMES CO.', 'LTD.']",['Oct152018'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+900,,387.0,88%,$19.99,['PowerRangersBattlefortheGrid'],"['nWay', 'INC']","['nWay', 'INC']",['Sep242019'],['Power Rangers'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+901,,8282.0,95%,$4.99,['ISLANDERS'],['GrizzlyGames'],['GrizzlyGames'],['Apr42019'],['GrizzlyGames'],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+902,,5328.0,94%,$4.99,['UltimateDoom'],['id Software'],['id Software'],['Apr301995'],['DOOM'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+903,,253.0,87%,$9.99,['Arma3Tanks'],['Bohemia Interactive'],['Bohemia Interactive'],['Apr112018'],['Arma Franchise'],1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+904,,366.0,76%,$19.99,['TheBlackMasses'],['Brilliant Game Studios'],['Brilliant Game Studios'],['Mar122020'],[],1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+905,,16175.0,85%,$19.99,['BatmanArkhamOrigins'],"['WB Games Montreal', 'Splash Damage']",['Warner Bros. Interactive Entertainment'],['Oct242013'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+906,,3809.0,69%,$19.99,['STARWARSTheForceUnleashedUltimateSithEdition'],['LucasArts'],"['LucasArts', 'Lucasfilm', 'Disney']",['Nov32009'],['Star Wars'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+907,,93.0,67%,$19.99,['BATTLETECHHeavyMetal'],['Harebrained Schemes'],['Paradox Interactive'],['Nov212019'],['BATTLETECH'],1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+908,,467.0,82%,$5.99,['GrimDawnCrucibleModeDLC'],['Crate Entertainment'],['Crate Entertainment'],['Aug32016'],[],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+909,,279.0,60%,$19.99,['ExpansionEuropaUniversalisIVArtofWar'],['Paradox Development Studio'],['Paradox Interactive'],['Oct302014'],['Europa Universalis'],0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+910,,15446.0,96%,$12.99,['DuckGame'],['Landon Podbielski'],['Adult Swim Games'],['Jun42015'],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+911,,293.0,91%,$14.99,['CircleEmpiresRivals'],['Luminous'],['Iceberg Interactive'],['Apr152020'],[],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+912,,412.0,85%,$3.99,['SpaceEngineersDecorativePack'],['Keen Software House'],[],['Apr82019'],[],1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+913,,437.0,87%,$49.99,['MotoGP20'],['Milestone S.r.l.'],['Milestone S.r.l.'],['Apr232020'],['MotoGP™'],0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+914,,0.0,No Rating,$56.75,['DeepRockGalacticDwarvenLegacy'],['Ghost Ship Games'],['Coffee Stain Publishing'],[],[],1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+915,,41357.0,96%,$9.99,['FTLFasterThanLight'],['Subset Games'],['Subset Games'],['Sep142012'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+916,,17134.0,94%,,['BioShock'],"['2K Boston', '2K Australia']",['2K'],['Aug212007'],['BioShock'],1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+917,,288.0,82%,$19.99,['TheSims3Pets'],['The Sims Studio'],['Electronic Arts'],['Oct182011'],['The Sims'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+918,,18891.0,95%,$39.99,['TheTalosPrinciple'],['Croteam'],"['Devolver Digital', 'Croteam']",['Dec112014'],['Croteam'],1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+919,,0.0,No Rating,$98.75,['TheJackboxPartyQuintpack'],"['Jackbox Games', 'Inc.']","['Jackbox Games', 'Inc.']",[],[],0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+920,,64.0,98%,$4.99,['DRAGONBALLFIGHTERZGokuUltraInstinct'],['Arc System Works'],['BANDAI NAMCO Entertainment'],['May212020'],['FRANCHISE'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+921,,3310.0,89%,$14.99,['CommandConquer3TiberiumWars'],['EA Los Angeles'],['Electronic Arts'],['Mar282007'],['Command and Conquer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+922,,2927.0,93%,$29.99,['GUILTYGEARXrdREVELATOR'],['Arc System Works'],['Arc System Works'],['Dec142016'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+923,,1653.0,89%,$29.99,['DanganronpaAnotherEpisodeUltraDespairGirls'],"['Spike Chunsoft Co.', 'Ltd.']","['Spike Chunsoft Co.', 'Ltd.']",['Jun272017'],['Danganronpa'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+924,,1552.0,78%,$19.99,['BlackthornArena'],['PersonaeGame Studio'],['CreativeForge Games'],['Jan172020'],[],0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+925,,827.0,79%,$24.99,['Warhammer40000InquisitorProphecy'],['NeocoreGames'],['NeocoreGames'],['Jul302019'],['Warhammer'],1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+926,,2028.0,93%,$6.99,['DeadbyDaylightSparkofMadnessChapter'],['Behaviour Digital Inc.'],['Starbreeze Publishing'],['May112017'],[],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+927,,1560.0,47%,$49.99,['WarhammerChaosbane'],['Eko Software'],['Nacon'],['May312019'],['Warhammer'],1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+928,,5264.0,76%,Free To Play,['AdventureQuest3D'],"['Artix Entertainment', 'LLC']","['Artix Entertainment', 'LLC']",['Oct192016'],['AdventureQuest'],1,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+929,,12482.0,87%,$39.99,['ShadowWarrior2'],['Flying Wild Hog'],['Devolver Digital'],['Oct132016'],[],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+930,$11.99                    ,1080.0,92%,$14.99,['THELONGING'],['Studio Seufz'],['Application Systems Heidelberg'],['Mar52020'],[],0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+931,,175.0,64%,$3.99,['SpaceEngineersFrostbite'],['Keen Software House'],[],['Mar192020'],[],1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+932,$7.49                    ,889.0,72%,$29.99,['AvenColony'],['Mothership Entertainment LLC'],['Team17 Digital Ltd'],['Jul252017'],['Team17 Digital'],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+933,,9744.0,74%,Free to Play,['RIFT'],['Trion Worlds'],['Trion Worlds'],['Oct242013'],[],0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+934,,211.0,98%,$14.99,['AssettoCorsaCompetizioneIntercontinentalGTPack'],['Kunos Simulazioni'],['Kunos Simulazioni'],['Feb42020'],[],0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+935,,8562.0,97%,$9.99,['NEKOPARAVol3'],['NEKO WORKs'],['Sekai Project'],['May252017'],[],0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+936,,82.0,69%,$9.99,['ConanExilesJeweloftheWestPack'],['Funcom'],['Funcom'],['Aug22018'],"['Conan Exiles', 'Funcom']",1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+937,,1404.0,73%,$9.99,['KingdomUnderFire2'],['Blueside'],['Gameforge 4D GmbH\\t'],['Nov182019'],[],1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+938,,7972.0,93%,$19.99,['NightintheWoods'],['Infinite Fall'],['Finji'],['Feb212017'],[],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+939,,14.0,92%,$4.99,['Warhammer40000GladiusAssaultPack'],['Proxy Studios'],['Slitherine Ltd.'],['May282020'],['Warhammer'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+940,,50.0,70%,$9.99,['CultistSimulatorTheExile'],['Weather Factory'],['Weather Factory'],['May272020'],['Secret Histories'],0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+941,,69.0,66%,,['ShadowoftheTombRaiderDeluxeExtras'],"['Eidos-Montréal', 'Crystal Dynamics']",['Square Enix'],['Sep142018'],['Tomb Raider'],1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+942,,38384.0,91%,$19.99,['MiddleearthShadowofMordor'],"['Monolith Productions', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']","['WB Games', 'Feral Interactive (Mac)']",['Sep302014'],[],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+943,,144.0,79%,$14.99,['ExpansionCrusaderKingsIITheOldGods'],['Paradox Development Studio'],['Paradox Interactive'],['May282013'],['Crusader Kings'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+944,,12961.0,90%,$9.99,['KingdomsandCastles'],"['Lion Shield', 'LLC']","['Lion Shield', 'LLC']",['Jul202017'],[],0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
